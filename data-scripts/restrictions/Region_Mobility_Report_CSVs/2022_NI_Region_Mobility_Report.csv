@@ -1,0 +1,595 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-01,-10,-13,24,-35,-57,7
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-02,27,51,25,16,-10,1
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-03,28,60,14,23,-8,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-04,28,60,13,23,-4,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-05,25,55,14,26,5,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-06,27,53,18,24,5,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-07,25,54,13,24,11,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-08,24,52,16,16,20,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-09,23,51,14,11,6,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-10,31,59,21,24,11,1
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-11,31,61,17,27,12,1
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-12,26,54,15,25,13,1
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-13,26,53,14,23,12,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-14,34,64,19,29,18,1
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-15,39,69,24,27,23,1
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-16,37,70,22,21,9,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-17,37,69,22,34,17,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-18,35,65,21,30,15,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-19,33,56,22,29,15,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-20,34,57,19,28,15,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-21,37,62,19,28,20,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-22,35,59,20,26,25,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-23,31,60,20,16,13,5
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-24,34,60,20,24,20,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-25,31,57,17,23,19,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-26,27,50,17,25,18,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-27,27,49,16,22,17,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-28,33,58,17,24,23,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-29,34,59,19,21,25,3
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-30,33,61,18,16,11,5
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-01-31,36,65,18,26,23,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-02-01,34,64,18,26,21,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-02-02,30,56,20,29,20,2
+NI,Nicaragua,,,,,,ChIJzSL_zgDCEI8RtRWsP-Wn-sg,2022-02-03,29,56,16,26,19,3
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-01,-25,-19,-25,-29,-63,5
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-02,29,48,3,17,-1,-1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-03,32,60,7,27,-5,3
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-04,35,59,10,31,0,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-05,32,56,7,31,8,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-06,33,56,12,38,8,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-07,30,58,14,29,16,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-08,33,55,5,30,27,0
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-09,33,55,10,18,20,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-10,36,59,23,34,15,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-11,39,61,21,39,17,0
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-12,33,56,13,34,17,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-13,31,55,11,38,15,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-14,41,71,25,34,23,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-15,52,76,20,42,30,0
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-16,49,78,21,32,21,0
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-17,45,75,28,45,20,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-18,44,66,30,39,20,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-19,40,58,27,31,18,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-20,41,61,23,39,18,3
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-21,43,67,29,29,25,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-22,46,63,21,35,31,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-23,42,65,29,19,26,3
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-24,40,62,26,31,23,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-25,38,58,27,32,22,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-26,34,52,21,30,20,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-27,32,53,18,32,19,3
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-28,41,66,27,28,27,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-29,47,67,20,33,32,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-30,49,71,27,22,24,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-01-31,45,71,25,35,25,1
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-02-01,42,67,29,35,24,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-02-02,37,61,21,34,22,2
+NI,Nicaragua,,,Managua Metropolitan Area,,,ChIJva7QGQH-c48RzgpWOBOwQoI,2022-02-03,35,60,19,40,21,3
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-01,,,,,-53,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-02,,,,,-29,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-03,,,,,-26,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-04,,,,,-19,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-05,,,,,-12,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-06,,,,,-12,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-07,,,,,-8,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-08,,,,,-2,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-09,,,,,-20,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-10,,,,,-6,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-11,,,,,-4,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-12,,,,,-5,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-13,,,,,-13,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-14,,,,,-1,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-15,,,,,-1,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-17,,,,,-2,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-18,,,,,-2,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-19,,,,,-8,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-20,,,,,-9,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-21,,,,,-2,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-22,,,,,-3,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-24,,,,,5,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-25,,,,,6,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-26,,,,,7,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-27,,,,,0,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-28,,,,,9,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-29,,,,,3,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-01-31,,,,,7,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-02-01,,,,,9,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-02-02,,,,,3,
+NI,Nicaragua,Boaco,,,NI-BO,,ChIJ-bMtCowMc48RSmWYDLp6JGI,2022-02-03,,,,,8,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-01,7,,38,-70,-61,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-02,,,30,,-25,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-03,,,20,-54,-14,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-04,,,25,-52,-12,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-05,,,16,-66,-6,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-06,,,27,-54,-7,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-07,,,26,-54,-1,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-08,17,,20,-55,0,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-09,,,28,,-7,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-10,,,35,-55,1,1
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-11,,,34,-44,-1,1
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-12,,,30,-48,0,1
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-13,,,25,-49,0,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-14,,,47,-50,10,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-15,,,36,-49,-2,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-16,,,25,,-4,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-17,,,36,-39,8,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-18,,,45,-40,6,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-19,,,74,-47,5,1
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-20,,,66,,-2,3
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-21,,,37,-45,10,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-22,,,27,-49,2,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-23,,,53,,1,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-24,,,37,-46,10,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-25,,,37,-38,8,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-26,,,41,-44,8,3
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-27,,,42,-60,6,3
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-28,,,39,-48,14,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-29,,,34,-48,0,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-30,,,35,,-2,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-01-31,,,33,-48,16,
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-02-01,,,38,-47,12,2
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-02-02,,,33,,8,4
+NI,Nicaragua,Carazo,,,NI-CA,,ChIJXx8sSk8ddI8RU9GmileemrA,2022-02-03,,,38,-52,6,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-01,2,-6,56,-28,-52,8
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-02,26,66,48,38,-12,5
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-03,36,70,38,42,-8,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-04,32,69,34,41,-9,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-05,28,65,39,37,-1,2
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-06,34,61,37,35,-3,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-07,32,62,39,49,6,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-08,31,62,32,32,16,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-09,26,62,27,21,4,5
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-10,41,70,53,36,5,2
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-11,40,72,34,32,1,2
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-12,32,56,36,38,6,2
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-13,28,61,33,40,5,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-14,39,69,41,48,12,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-15,39,78,34,52,18,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-16,35,70,32,29,9,6
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-17,43,73,42,50,10,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-18,35,72,35,39,8,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-19,34,65,31,46,7,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-20,37,70,28,41,7,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-21,40,80,34,49,14,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-22,41,76,28,51,21,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-23,33,85,27,26,16,7
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-24,42,74,38,24,14,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-25,35,62,30,29,8,1
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-26,33,59,29,40,11,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-27,31,60,26,35,10,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-28,36,61,33,36,17,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-29,34,74,28,41,18,6
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-30,26,76,26,16,12,8
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-01-31,36,72,35,28,16,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-02-01,34,72,26,34,12,3
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-02-02,34,54,33,30,9,4
+NI,Nicaragua,Chinandega,,,NI-CI,,ChIJG-nDgNlZcI8RLHzftslE18Y,2022-02-03,33,61,31,27,11,4
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-01,,-4,7,,-50,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-02,,,3,,-28,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-03,,,-16,,-15,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-04,,,-11,,-5,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-05,,,-10,,2,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-06,,,2,,4,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-07,,,-2,,5,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-08,,,-9,,7,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-09,,,-11,,-9,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-10,,,3,,10,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-11,,,-6,,12,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-12,,,-6,,14,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-13,,,-8,,13,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-14,,,2,,17,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-15,,,-2,,8,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-16,,,25,,-6,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-17,,,-4,,16,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-18,,,-1,,20,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-19,,,19,,18,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-20,,,15,,8,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-21,,,2,,17,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-22,,,-1,,9,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-23,,,-5,,-3,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-24,,,1,,24,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-25,,,-8,,18,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-26,,,-6,,18,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-27,,,0,,18,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-28,,,2,,29,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-29,,,-8,,12,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-30,,,-10,,-12,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-01-31,,,-10,,27,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-02-01,,,-9,,26,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-02-02,,,-9,,27,
+NI,Nicaragua,Chontales,,,NI-CO,,ChIJX1T9kOljc48RYZWF6uLkKl8,2022-02-03,,,-1,,22,
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-01,-32,-33,22,-30,-60,6
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-02,0,32,26,,-26,
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-03,14,35,15,,-12,2
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-04,13,29,11,,-4,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-05,11,35,17,,6,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-06,8,36,22,,6,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-07,10,32,20,,13,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-08,3,30,24,,9,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-09,8,40,15,,-16,
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-10,15,35,25,,12,-1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-11,13,39,23,,12,-1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-12,14,31,11,,14,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-13,13,38,11,,13,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-14,13,35,27,,21,-1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-15,11,38,36,,13,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-16,6,50,24,,-12,
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-17,17,36,22,,16,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-18,15,38,15,,16,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-19,14,32,12,,16,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-20,11,37,12,,16,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-21,14,39,25,,22,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-22,15,36,36,,15,2
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-23,11,44,10,,-2,
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-24,17,38,17,,22,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-25,9,31,11,,22,-1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-26,8,31,12,,21,2
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-27,7,35,0,,22,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-28,11,36,23,,29,1
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-29,9,31,27,,22,2
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-30,7,43,11,,-11,
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-01-31,12,39,19,,27,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-02-01,11,39,13,,24,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-02-02,13,32,16,,24,0
+NI,Nicaragua,Esteli,,,NI-ES,,ChIJg_vHoGmMcY8RLcvukdEMgJ0,2022-02-03,12,43,18,,25,1
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-01,,33,,,-53,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-02,,,,,-13,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-03,,57,,,-9,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-04,,57,,,-4,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-05,,48,,,4,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-06,,42,,,0,2
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-07,12,47,,,8,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-08,11,48,,,5,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-09,16,,,,-6,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-10,,58,,,5,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-11,,54,,,9,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-12,,43,,,12,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-13,,43,,,6,2
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-14,11,53,,,10,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-15,18,59,,,8,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-16,25,,,,-3,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-17,,66,,,9,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-18,,56,,,11,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-19,,51,,,14,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-20,,45,,,10,2
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-21,,55,,,16,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-22,8,55,,,8,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-23,18,,,,-3,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-24,,64,,,16,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-25,,50,,,17,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-26,,42,,,20,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-27,,44,,,16,3
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-28,,49,47,,23,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-29,19,57,,,12,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-30,19,,,,1,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-01-31,,,,,21,2
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-02-01,,60,,,25,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-02-02,,48,,,22,
+NI,Nicaragua,Granada,,,NI-GR,,ChIJeSryR-0MdI8RUZZYplJVAgY,2022-02-03,,49,,,21,2
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-01,,,,,-52,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-02,,,,,-21,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-03,,,,,-10,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-04,,,,,-5,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-05,,,,,3,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-06,,,,,1,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-07,,,,,16,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-08,,,,,9,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-09,,,-7,,-10,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-10,,,,,9,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-11,,,,,10,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-12,,,,,14,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-13,,,,,15,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-14,,,,,21,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-15,,,,,13,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-16,,,,,-4,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-17,,,,,18,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-18,,,,,20,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-19,,,,,15,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-20,,,,,12,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-21,,,,,17,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-22,,,,,13,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-23,,,,,-6,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-24,,,,,21,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-25,,,,,21,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-26,,,,,23,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-27,,,,,15,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-28,,,,,26,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-29,,,,,12,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-30,,,,,-5,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-01-31,,,,,26,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-02-01,,,,,23,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-02-02,,,,,23,
+NI,Nicaragua,Jinotega,,,NI-JI,,ChIJS1uy8qNxbY8R3gaQiUfxNjk,2022-02-03,,,,,20,
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-01,19,13,119,-40,-56,7
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-02,49,71,65,25,-19,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-03,33,73,46,45,-12,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-04,30,71,41,34,-8,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-05,30,67,39,35,1,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-06,26,61,45,28,2,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-07,26,63,41,29,4,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-08,27,64,51,31,8,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-09,38,54,36,7,-9,3
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-10,31,70,46,47,4,0
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-11,30,70,36,35,7,0
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-12,30,66,36,28,10,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-13,27,61,38,29,10,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-14,40,70,44,37,11,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-15,55,83,48,47,12,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-16,62,71,39,29,-4,4
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-17,45,77,41,57,15,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-18,40,79,42,42,16,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-19,38,77,37,52,14,0
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-20,39,76,39,49,16,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-21,40,80,42,51,16,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-22,41,89,38,63,12,3
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-23,51,68,30,30,-1,5
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-24,40,84,44,55,19,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-25,36,89,35,43,20,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-26,30,77,35,46,18,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-27,34,78,40,57,16,2
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-28,32,76,41,40,19,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-29,36,85,27,52,9,3
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-30,43,70,25,37,-1,4
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-01-31,37,90,43,49,20,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-02-01,36,89,43,46,21,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-02-02,31,85,40,46,20,1
+NI,Nicaragua,Leon,,,NI-LE,,ChIJRUnPguMScY8RAJL4a3DHQg0,2022-02-03,29,77,33,41,22,2
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-01,,,,,-44,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-03,,,,,-30,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-04,,,,,-23,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-05,,,,,-13,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-06,,,,,-13,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-10,,,,,-6,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-11,,,,,-6,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-12,,,,,-4,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-13,,,,,-6,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-17,,,,,-3,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-18,,,,,-1,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-19,,,,,3,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-20,,,,,1,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-25,,,,,0,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-26,,,,,-1,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-01-27,,,,,-4,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-02-01,,,,,1,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-02-02,,,,,5,
+NI,Nicaragua,Madriz,,,NI-MD,,ChIJAWZ_HNXfcY8Rh2uztwRPfpU,2022-02-03,,,,,8,
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-01,-24,-20,-14,-32,-61,5
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-02,28,40,7,19,1,-1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-03,31,54,5,28,-3,3
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-04,35,59,6,33,-1,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-05,32,52,7,37,10,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-06,32,50,11,40,11,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-07,30,50,6,33,17,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-08,34,53,7,24,34,0
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-09,31,47,9,19,22,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-10,34,53,19,35,18,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-11,39,60,16,40,16,0
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-12,34,53,12,39,18,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-13,30,49,9,40,18,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-14,41,63,14,39,24,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-15,52,73,17,36,37,0
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-16,48,67,22,34,23,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-17,43,69,23,47,23,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-18,45,66,22,41,19,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-19,40,54,20,37,19,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-20,40,55,16,41,21,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-21,43,60,19,33,25,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-22,46,61,16,29,39,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-23,39,55,23,21,27,3
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-24,38,57,20,33,26,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-25,39,57,19,34,22,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-26,34,49,17,35,21,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-27,31,46,14,34,21,3
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-28,41,58,15,32,28,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-29,47,65,16,26,40,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-30,48,61,22,23,25,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-01-31,43,65,20,37,28,1
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-02-01,43,67,21,36,23,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-02-02,38,57,17,40,23,2
+NI,Nicaragua,Managua,,,NI-MN,,ChIJC4gH2Q1WcY8Rl_r7wKEcu-U,2022-02-03,35,53,15,42,23,3
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-01,28,-18,39,-61,-57,10
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-02,50,61,33,1,-7,
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-03,43,79,38,18,-3,8
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-04,42,70,32,11,0,7
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-05,39,63,32,19,11,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-06,35,63,35,17,11,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-07,33,65,24,22,20,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-08,37,68,25,13,23,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-09,37,67,20,21,10,
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-10,36,69,38,11,21,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-11,35,62,35,13,19,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-12,33,62,25,0,22,4
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-13,32,56,30,10,17,4
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-14,42,69,32,15,28,4
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-15,44,90,35,7,22,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-16,45,95,32,-10,13,
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-17,41,74,43,15,27,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-18,38,59,33,30,22,7
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-19,46,35,35,47,25,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-20,43,34,28,43,21,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-21,45,39,30,55,26,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-22,39,40,24,69,23,7
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-23,40,48,23,71,17,
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-24,45,40,38,42,31,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-25,41,37,28,39,28,7
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-26,37,25,31,34,29,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-27,37,28,27,31,26,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-28,45,39,34,44,34,4
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-29,45,38,27,54,27,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-30,41,41,24,61,15,
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-01-31,48,44,36,52,35,5
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-02-01,43,41,29,47,31,6
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-02-02,42,39,34,49,32,4
+NI,Nicaragua,Masaya,,,NI-MS,,ChIJKRUckR0GdI8R-MzUqD6wuks,2022-02-03,37,37,30,39,26,6
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-01,-6,-19,-13,-49,-59,7
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-02,22,50,-6,26,-30,
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-03,41,48,-13,21,-12,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-04,37,53,-15,22,-7,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-05,33,38,-10,19,-2,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-06,32,44,-16,18,-1,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-07,30,38,-27,16,6,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-08,29,41,-24,8,-1,2
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-09,19,41,-21,13,-14,
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-10,40,48,-25,14,1,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-11,42,53,-24,20,6,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-12,34,42,-25,13,7,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-13,35,50,-22,12,6,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-14,41,49,-23,27,12,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-15,42,59,-17,25,7,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-16,29,61,-23,26,-7,
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-17,47,58,-24,19,7,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-18,56,64,-20,26,8,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-19,48,54,-24,0,6,2
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-20,47,59,-20,-4,7,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-21,47,54,-23,-4,11,2
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-22,46,61,-18,-10,7,3
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-23,30,67,-19,-8,-6,
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-24,50,51,-19,-4,11,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-25,48,54,-21,-3,14,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-26,40,41,-20,-13,11,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-27,40,47,-21,-15,10,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-28,37,46,-20,-5,15,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-29,38,48,-15,-17,4,4
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-30,29,53,-20,-9,-9,
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-01-31,45,52,-20,-7,15,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-02-01,43,49,-24,-4,17,1
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-02-02,45,41,-13,-12,15,0
+NI,Nicaragua,Matagalpa,,,NI-MT,,ChIJLx1W-TBIco8RBl_l3XIc--k,2022-02-03,40,48,-20,-10,15,1
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-01,,,,,-57,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-02,,,,,-31,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-03,,,,,-38,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-04,,,,,-35,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-05,,,,,-17,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-06,,,,,-17,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-07,,,,,-17,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-08,,,,,-23,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-09,,,,,-30,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-10,,,,,-14,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-11,,,,,-11,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-12,,,,,-18,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-13,,,,,-10,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-14,,,,,-7,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-15,,,,,-18,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-16,,,,,-26,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-17,,,,,-10,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-18,,,,,-13,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-19,,,,,-6,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-20,,,,,-8,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-21,,,,,-7,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-22,,,,,-14,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-23,,,,,-18,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-24,,,,,-2,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-25,,,,,1,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-26,,,,,-4,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-27,,,,,-7,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-28,,,,,-1,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-29,,,,,-9,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-30,,,,,-29,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-01-31,,,,,0,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-02-01,,,,,-3,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-02-02,,,,,-3,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,ChIJ828chdnkEI8RfB3WTR7D8Do,2022-02-03,,,,,-4,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-01,,,-13,,-63,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-02,,,-8,,-51,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-03,,,-21,,-28,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-04,,,-12,,-24,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-05,,,-17,,-23,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-06,,,-9,,-17,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-07,,,-10,,-14,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-08,,,-24,,-21,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-09,,,-16,,-33,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-10,,,-8,,-11,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-11,,,-12,,-13,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-12,,,-14,,-13,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-13,,,-16,,-12,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-14,,,-13,,-6,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-15,,,-3,,-16,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-16,,,-14,,-35,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-17,,,-8,,-7,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-18,,,,,-13,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-19,,,0,,-9,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-20,,,,,-10,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-21,,,-5,,-6,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-22,,,-7,,-16,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-23,,,-13,,-33,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-24,,,-8,,-4,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-25,,,-9,,-2,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-26,,,-15,,-10,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-27,,,-7,,-6,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-28,,,-19,,-2,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-29,,,-19,,-16,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-30,,,-13,,-30,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-01-31,,,-13,,0,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-02-01,,,-13,,-1,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-02-02,,,-5,,-9,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,ChIJI33IspbkbY8RjIUDRc8qzOE,2022-02-03,,,-14,,-2,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-01,,,137,,-48,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-02,,,92,,-22,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-03,,,30,,-13,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-04,,,16,,-14,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-05,,,12,,-1,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-06,,,12,,-3,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-07,,,14,,5,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-08,17,,19,,-3,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-09,9,,19,,-17,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-10,,,17,,-4,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-11,,,3,,-3,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-12,,,5,,6,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-13,,,6,,2,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-14,,,14,,11,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-15,13,,13,,3,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-16,9,,26,,-8,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-17,,,10,,4,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-18,,,0,,4,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-19,,,-3,,7,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-20,,,-10,,9,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-21,,,-4,,13,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-22,14,,-3,,7,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-23,4,,0,,-6,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-24,,,-12,,10,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-25,,,-14,,11,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-26,,,-11,,14,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-27,,,-7,,12,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-28,,,-10,,18,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-29,18,,-6,,5,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-30,9,,-6,,-6,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-01-31,,,-12,,14,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-02-01,,,-8,,14,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-02-02,,,3,,16,
+NI,Nicaragua,Rivas,,,NI-RI,,ChIJUyYgT8FOdI8REkhrKLL_j9M,2022-02-03,,,-7,,12,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-01,,,2,,-55,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-02,,,3,,-34,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-03,,,-11,,-29,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-04,,,-11,,-21,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-05,,,-10,,-16,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-06,,,-8,,-16,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-07,,,-8,,-13,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-08,,,-7,,-12,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-09,,,-5,,-24,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-10,,,-2,,-10,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-11,,,-9,,-5,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-12,,,-3,,-5,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-13,,,-10,,-6,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-14,,,-10,,-4,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-15,,,2,,-5,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-16,,,1,,-21,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-17,,,-8,,-4,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-18,,,-6,,-4,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-19,,,-8,,-2,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-20,,,-9,,-7,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-21,,,-8,,-6,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-22,,,-6,,-6,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-23,,,-4,,-18,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-24,,,-8,,-1,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-25,,,-4,,2,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-26,,,-3,,4,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-27,,,-11,,-2,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-28,,,-9,,-2,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-29,,,-7,,-6,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-30,,,-3,,-20,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-01-31,,,-10,,1,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-02-01,,,-9,,8,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-02-02,,,-1,,3,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,ChIJ6chW8QYIDI8RpB4DOlSmD1k,2022-02-03,,,-7,,3,

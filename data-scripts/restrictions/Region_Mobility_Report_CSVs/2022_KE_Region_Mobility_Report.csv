@@ -1,0 +1,1290 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-01,12,20,29,17,-43,9
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-02,31,45,34,49,12,3
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-03,44,59,7,53,-5,9
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-04,41,59,8,60,4,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-05,40,58,6,56,10,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-06,40,55,7,54,15,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-07,39,56,9,55,22,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-08,37,51,23,55,32,6
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-09,36,49,30,56,33,7
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-10,44,50,7,55,21,6
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-11,37,43,7,49,18,4
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-12,39,48,9,51,20,5
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-13,41,51,8,54,22,7
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-14,42,54,7,58,28,7
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-15,36,45,16,51,34,6
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-16,36,46,27,54,36,6
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-17,39,40,5,51,23,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-18,37,42,6,54,23,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-19,41,47,6,53,25,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-20,45,52,10,56,27,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-21,44,54,12,59,32,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-22,42,52,24,57,37,7
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-23,38,47,32,55,40,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-24,45,47,5,57,29,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-25,43,47,8,58,28,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-26,45,52,8,57,28,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-27,46,54,9,59,29,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-28,48,59,14,63,35,6
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-29,45,56,27,60,39,5
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-30,43,53,34,59,41,6
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-01-31,47,50,4,57,30,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-02-01,46,52,8,62,30,7
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-02-02,49,57,8,60,31,8
+KE,Kenya,,,,,,ChIJD5BQg9CAJxgR2W2XobAOO0A,2022-02-03,51,59,12,64,33,7
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-01,43,-7,27,77,-35,9
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-02,56,11,72,138,14,4
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-03,84,30,68,148,8,5
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-04,71,26,74,179,17,5
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-05,65,23,70,167,25,6
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-06,68,23,70,150,29,8
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-07,65,22,64,126,38,5
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-08,72,18,54,145,42,6
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-09,51,13,79,133,35,8
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-10,68,17,56,139,37,6
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-11,61,15,56,139,32,5
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-12,60,11,60,127,36,8
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-13,65,13,62,127,37,9
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-14,63,18,63,123,45,7
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-15,57,5,50,123,49,12
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-16,47,4,67,99,39,13
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-17,55,4,51,93,34,15
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-18,59,13,69,133,40,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-19,72,16,74,134,45,9
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-20,74,16,79,120,44,11
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-21,78,22,70,134,52,8
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-22,71,14,62,141,53,11
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-23,55,7,83,109,45,12
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-24,78,14,75,124,48,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-25,72,16,90,137,45,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-26,68,18,85,127,46,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-27,72,23,86,123,46,11
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-28,77,26,82,134,55,8
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-29,75,24,85,148,53,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-30,64,16,92,130,45,11
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-01-31,77,20,79,123,49,11
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-02-01,72,26,87,151,49,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-02-02,73,25,87,144,54,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,ChIJe9p2lnIBgRcRJNKkQt8400A,2022-02-03,78,31,85,147,53,11
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-01,20,0,104,21,-48,7
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-02,25,18,60,39,3,2
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-03,37,33,42,41,-4,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-04,31,31,38,39,5,3
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-05,32,29,49,38,9,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-06,29,24,43,31,13,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-07,25,22,38,26,17,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-08,21,24,41,29,22,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-09,18,17,41,26,18,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-10,35,30,44,39,16,3
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-11,27,24,46,24,15,2
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-12,30,26,51,31,18,3
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-13,30,24,45,28,19,3
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-14,26,23,52,29,23,3
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-15,23,26,51,33,27,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-16,19,15,45,33,21,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-17,31,24,47,37,20,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-18,28,24,50,32,21,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-19,33,25,45,33,23,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-20,33,22,41,25,24,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-21,28,21,42,31,27,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-22,24,23,47,35,28,6
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-23,19,15,32,27,23,6
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-24,32,22,37,38,23,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-25,32,26,45,34,24,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-26,34,26,49,37,24,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-27,34,23,41,36,26,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-28,32,26,42,34,30,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-29,25,30,48,37,30,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-30,20,20,45,33,27,5
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-01-31,37,28,40,39,25,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-02-01,36,32,54,38,27,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-02-02,40,36,52,41,27,4
+KE,Kenya,,,Mombasa Metropolitan Area,,,ChIJwZxSNmQLQBgR72Vz-RuDejg,2022-02-03,38,28,48,39,30,4
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-01,-3,11,8,14,-47,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-02,19,33,30,46,16,3
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-03,32,52,-11,50,-10,10
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-04,32,54,-5,58,-1,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-05,32,49,-8,56,5,10
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-06,33,47,-5,57,9,10
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-07,32,49,-2,58,16,10
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-08,31,48,31,58,32,6
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-09,32,45,45,61,37,6
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-10,37,48,-1,60,16,7
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-11,31,42,-1,52,13,4
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-12,32,41,-4,54,14,6
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-13,35,45,-4,58,16,8
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-14,36,48,-12,61,22,8
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-15,28,41,6,53,32,6
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-16,32,43,27,59,38,5
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-17,33,40,-8,58,18,8
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-18,31,41,-9,57,18,8
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-19,33,39,-12,59,19,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-20,38,46,-4,62,20,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-21,36,46,-4,63,25,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-22,34,48,18,60,36,6
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-23,33,43,36,62,41,6
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-24,37,44,-13,63,22,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-25,35,45,-7,63,21,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-26,38,44,-9,62,21,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-27,39,47,-6,65,22,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-28,41,52,-4,68,28,7
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-29,38,52,18,64,37,4
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-30,37,48,34,65,42,5
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-01-31,39,47,-15,63,23,8
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-02-01,39,50,-10,67,23,8
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-02-02,41,48,-11,66,24,9
+KE,Kenya,,,Nairobi Metropolitan Area,,,ChIJ011D4GkXLxgRVd4OS27StFk,2022-02-03,43,52,-3,71,25,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-01,36,12,-3,-10,-40,11
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-02,75,54,-14,29,14,4
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-03,88,62,14,23,9,6
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-04,84,58,25,16,19,5
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-05,71,57,5,13,26,7
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-06,67,48,4,10,26,7
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-07,65,38,10,10,32,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-08,61,35,7,10,35,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-09,55,45,-21,15,31,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-10,73,45,10,9,33,5
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-11,62,37,17,6,32,4
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-12,64,44,9,7,33,7
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-13,68,39,7,10,29,7
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-14,68,35,7,9,36,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-15,61,32,6,7,38,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-16,51,40,-30,9,31,10
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-17,67,33,3,1,35,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-18,62,28,0,3,35,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-19,67,44,13,0,37,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-20,70,44,16,-2,36,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-21,69,39,15,5,42,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-22,60,38,14,-2,39,10
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-23,58,56,-22,6,35,10
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-24,71,41,7,2,41,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-25,69,44,26,4,41,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-26,75,52,10,6,40,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-27,66,49,15,7,35,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-28,67,48,12,15,42,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-29,61,47,8,1,37,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-30,53,59,-26,15,35,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-01-31,68,45,12,6,41,8
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-02-01,63,44,27,2,41,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-02-02,68,60,17,7,44,9
+KE,Kenya,,,Nakuru Metropolitan Area,,,ChIJ7zK6zpmRKRgRKh09yp5-a2U,2022-02-03,75,54,18,15,40,9
+KE,Kenya,Baringo County,,,KE-01,,ChIJacede2zLhhcRjozppbX0tQU,2022-01-03,,,,,1,
+KE,Kenya,Baringo County,,,KE-01,,ChIJacede2zLhhcRjozppbX0tQU,2022-01-04,,,,,6,
+KE,Kenya,Baringo County,,,KE-01,,ChIJacede2zLhhcRjozppbX0tQU,2022-01-18,,,,,17,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-01,,,,,-15,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-03,,,,,47,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-04,,,,,46,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-05,,,,,53,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-06,,,,,63,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-07,,,,,71,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-11,,,,,63,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-12,,,,,65,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-13,,,,,82,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-14,,,,,74,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-18,,,,,65,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-19,,,,,76,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-20,,,,,83,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-21,,,,,88,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-25,,,,,80,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-26,,,,,83,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-27,,,,,92,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-01-28,,,,,91,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-02-01,,,,,88,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-02-02,,,,,78,
+KE,Kenya,Bomet County,,,KE-02,,ChIJD8qK1i6iKxgRruNqrhMrCkY,2022-02-03,,,,,93,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-01,,,-82,-58,-31,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-02,,,-78,-40,-5,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-03,,,-83,-45,-5,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-04,,,-78,-44,9,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-05,,,-80,-43,14,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-06,,,-78,-47,27,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-07,,,-83,-47,33,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-08,,,-80,-44,33,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-09,,,-85,-32,16,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-10,,,-85,-53,31,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-11,,,-85,-49,31,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-12,,,-84,-42,31,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-13,,,-79,-49,35,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-14,,,-79,-53,39,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-15,,,-78,-47,42,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-16,,,-81,-47,30,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-17,,,-81,-58,26,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-18,,,-80,-50,32,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-19,,,-80,-34,39,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-20,,,-84,-36,43,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-21,,,-82,-52,53,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-22,,,-80,-43,52,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-23,,,-79,-37,43,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-24,,,-85,-51,45,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-25,,,-82,-47,46,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-26,,,-84,-44,46,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-27,,,-84,-37,49,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-28,,,-86,-44,59,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-29,,,-80,-34,57,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-30,,,-83,-24,39,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-01-31,,,-87,-41,46,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-02-01,,,-85,-49,47,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-02-02,,,-81,-39,49,
+KE,Kenya,Bungoma County,,,KE-03,,ChIJ7ZSW5mzEgRcRqZZhfWd4wZI,2022-02-03,,,-83,-35,57,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-01,,,,,-16,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-03,,,,,21,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-04,,,,,35,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-05,,,,,39,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-06,,,,,50,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-07,,,,,55,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-08,,,,,51,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-10,,,,,59,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-11,,,,,60,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-12,,,,,58,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-13,,,,,66,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-14,,,,,56,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-15,,,,,47,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-17,,,,,58,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-18,,,,,67,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-19,,,,,51,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-20,,,,,69,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-21,,,,,61,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-24,,,,,73,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-25,,,,,74,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-26,,,,,62,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-27,,,,,78,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-28,,,,,71,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-01-31,,,,,75,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-02-01,,,,,81,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-02-02,,,,,73,
+KE,Kenya,Busia County,,,KE-04,,ChIJ01gDqe6XfxcRahCiktJFdD0,2022-02-03,,,,,80,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-01,,,,-40,-43,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-02,,,,-30,-9,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-03,,,,6,-6,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-04,,,,,6,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-05,,,,8,13,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-06,,,,-5,11,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-07,,,,-5,22,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-08,,,,-6,15,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-09,,,,-22,-3,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-10,,,,-15,19,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-11,,,,2,20,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-12,,,,-2,26,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-13,,,,-5,27,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-14,,,,-10,29,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-15,,,,-4,23,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-16,,,,-29,12,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-17,,,,-36,30,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-18,,,,-27,30,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-19,,,,-29,33,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-20,,,,-27,31,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-21,,,,-38,35,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-22,,,,-27,25,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-23,,,,-42,11,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-24,,,,-35,33,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-25,,,,-17,34,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-26,,,,-30,34,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-27,,,,-30,30,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-28,,,,-36,36,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-29,,,,-35,23,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-30,,,,-53,13,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-01-31,,,,-21,32,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-02-01,,,,-23,35,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-02-02,,,,-34,37,
+KE,Kenya,Embu County,,,KE-06,,ChIJa3m-uWI1JhgRConmairMxtc,2022-02-03,,,,-32,34,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-01,,,,,-19,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-02,,,,,-4,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-03,,,,,-3,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-04,,,,,-3,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-05,,,,,0,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-06,,,,,4,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-07,,,,,12,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-08,,,,,2,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-09,,,,,3,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-10,,,,,16,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-11,,,,,1,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-12,,,,,8,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-13,,,,,11,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-14,,,,,17,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-15,,,,,9,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-16,,,,,-1,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-17,,,,,16,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-18,,,,,10,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-19,,,,,12,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-20,,,,,21,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-21,,,,,25,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-22,,,,,12,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-23,,,,,3,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-24,,,,,24,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-25,,,,,18,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-26,,,,,20,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-27,,,,,21,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-28,,,,,23,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-29,,,,,16,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-30,,,,,12,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-01-31,,,,,28,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-02-01,,,,,20,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-02-02,,,,,24,
+KE,Kenya,Garissa County,,,KE-07,,ChIJxXVhnqQ5HhgRuuDIaVChb9w,2022-02-03,,,,,21,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-01,,,,62,-7,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-03,,,,96,8,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-04,,,,79,22,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-05,,,,,42,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-06,,,,90,52,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-07,,,,78,52,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-08,,,,66,,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-10,,,,73,48,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-11,,,,53,45,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-12,,,,,58,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-13,,,,80,55,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-14,,,,77,62,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-15,,,,59,,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-17,,,,36,28,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-18,,,,52,54,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-19,,,,,61,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-20,,,,78,68,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-21,,,,81,71,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-22,,,,67,,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-24,,,,63,62,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-25,,,,56,65,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-26,,,,,68,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-27,,,,87,62,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-28,,,,79,68,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-29,,,,70,,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-01-31,,,,58,58,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-02-01,,,,63,64,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-02-02,,,,,66,
+KE,Kenya,Homa Bay County,,,KE-08,,ChIJm8s_7A4uKxgRPxCbzCnh3TU,2022-02-03,,,,87,68,
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-01,29,10,9,-3,-37,7
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-02,39,23,18,17,17,2
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-03,62,40,-3,42,-4,9
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-04,61,41,3,44,4,7
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-05,51,40,2,35,10,7
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-06,52,27,2,46,17,9
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-07,52,39,1,43,24,8
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-08,47,37,-5,32,36,4
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-09,48,30,16,30,38,5
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-10,52,29,-13,46,24,5
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-11,42,17,-16,30,14,-6
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-12,33,10,-11,17,13,-10
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-13,43,19,-8,49,22,3
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-14,52,32,-5,47,30,6
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-15,41,31,0,27,36,5
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-16,47,32,13,27,39,7
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-17,44,22,-13,45,27,8
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-18,45,22,-5,40,25,8
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-19,36,19,-1,35,26,8
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-20,52,28,6,54,29,9
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-21,47,37,7,45,33,10
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-22,47,42,11,30,39,6
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-23,46,30,34,35,42,8
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-24,46,28,-3,48,33,10
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-25,49,33,8,47,30,9
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-26,41,31,4,41,31,10
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-27,47,30,1,48,32,9
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-28,52,42,5,49,37,6
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-29,48,46,7,39,43,3
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-30,52,41,19,42,44,6
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-01-31,51,33,-14,45,32,10
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-02-01,55,41,2,51,30,9
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-02-02,54,39,-1,40,33,8
+KE,Kenya,Kajiado County,,,KE-10,,ChIJb4hRWG3RLxgR7BEfBWv4EGg,2022-02-03,56,39,-2,58,35,9
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-01,,,18,13,-26,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-02,,,,,6,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-03,,,,,4,-1
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-04,,,,,15,0
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-05,,,,44,29,1
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-06,,,,,43,1
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-07,,,,,49,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-08,,,18,51,48,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-09,,,,,40,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-10,,,,47,48,0
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-11,,,,,43,3
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-12,,,,44,52,4
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-13,,,,,56,4
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-14,,,,,61,6
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-15,,,,62,60,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-16,,,,,40,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-17,,,,30,44,7
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-18,,,,,48,8
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-19,,,,28,56,8
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-20,,,,,61,8
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-21,,,,,63,7
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-22,,,,55,53,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-23,,,,,49,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-24,,,,46,55,6
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-25,,,,,54,6
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-26,,,,45,56,7
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-27,,,,,56,9
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-28,,,,,59,8
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-29,,,,56,60,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-30,,,,,50,
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-01-31,,,,48,59,6
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-02-01,,,,,60,7
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-02-02,,,,50,66,9
+KE,Kenya,Kakamega County,,,KE-11,,ChIJcQ5heNM6gBcR_WRPfoLF-Hk,2022-02-03,,,,,67,7
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-01,,,,,-36,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-02,,,,,6,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-03,,,,,9,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-04,,,,,19,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-05,,,,,28,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-06,,,,,30,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-07,,,,,37,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-08,,,,,35,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-09,,,,,29,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-10,,,,,37,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-11,,,,,32,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-12,,,,,39,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-13,,,,,38,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-14,,,,,44,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-15,,,,,41,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-16,,,,,35,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-17,,,,,36,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-18,,,,,44,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-19,,,,,48,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-20,,,,,51,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-21,,,,,58,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-22,,,,,48,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-23,,,,,37,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-24,,,,,56,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-25,,,,,46,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-26,,,,,52,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-27,,,,,52,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-28,,,,,57,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-29,,,,,49,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-30,,,,,39,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-01-31,,,,,56,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-02-01,,,,,51,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-02-02,,,,,55,
+KE,Kenya,Kericho County,,,KE-12,,ChIJZyAU7ksgKhgRWeLz-vXJHXs,2022-02-03,,,,,58,
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-01,40,29,129,23,-42,8
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-02,52,49,130,35,19,3
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-03,78,75,212,51,4,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-04,77,76,203,58,13,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-05,74,68,191,56,20,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-06,76,66,175,50,23,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-07,75,65,172,57,32,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-08,65,58,167,51,48,7
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-09,68,59,154,48,40,8
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-10,86,65,185,61,34,9
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-11,76,52,198,49,28,5
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-12,80,54,174,59,31,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-13,83,61,149,51,31,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-14,86,61,70,59,39,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-15,67,48,71,51,51,8
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-16,73,57,68,48,43,9
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-17,81,54,67,59,35,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-18,83,56,83,63,33,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-19,80,58,82,65,35,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-20,90,66,81,64,36,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-21,86,61,88,73,43,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-22,78,59,87,68,54,9
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-23,75,61,77,62,47,10
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-24,87,63,93,73,41,12
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-25,87,66,93,74,38,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-26,85,60,92,71,38,12
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-27,89,66,84,68,38,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-28,92,66,93,75,47,9
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-29,81,64,95,72,57,7
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-30,82,62,87,60,49,8
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-01-31,89,61,87,69,42,12
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-02-01,89,68,102,73,41,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-02-02,90,67,96,72,41,11
+KE,Kenya,Kiambu County,,,KE-13,,ChIJzzbxsmA2LxgRaR7dqAnEjOY,2022-02-03,94,73,87,68,42,10
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-01,93,28,40,34,-29,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-02,85,,32,79,2,4
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-03,84,,8,61,4,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-04,73,,6,53,12,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-05,66,38,9,49,20,4
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-06,70,39,0,55,30,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-07,71,41,1,40,30,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-08,65,37,-9,44,27,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-09,58,26,-5,57,14,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-10,68,33,-9,47,26,3
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-11,57,25,-11,39,26,2
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-12,65,34,0,45,30,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-13,69,36,-11,47,36,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-14,72,41,-2,44,36,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-15,69,39,2,49,37,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-16,66,,-4,59,25,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-17,76,30,-1,50,36,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-18,76,35,-4,38,38,5
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-19,74,36,-2,42,40,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-20,79,37,-6,50,44,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-21,80,41,5,47,45,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-22,77,44,-2,45,43,10
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-23,68,,4,62,29,11
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-24,81,30,1,43,41,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-25,78,33,-3,38,43,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-26,84,34,1,51,45,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-27,81,38,-8,55,50,8
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-28,87,41,6,53,49,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-29,77,43,0,54,45,9
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-30,70,,7,65,33,9
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-01-31,87,34,2,49,45,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-02-01,83,,4,47,45,6
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-02-02,87,,2,48,49,7
+KE,Kenya,Kilifi County,,,KE-14,,ChIJebVMLL7yPxgREMicpqQ8DmY,2022-02-03,90,,0,51,53,7
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-01,,,32,,-22,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-02,,,36,,16,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-03,,,20,,25,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-04,,,13,,36,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-05,,,6,,45,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-06,,,16,,43,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-07,,,7,,67,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-08,,,-2,,58,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-09,,,14,,49,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-10,,,9,,57,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-11,,,14,,57,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-12,,,5,,57,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-13,,,15,,55,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-14,,,18,,71,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-15,,,17,,71,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-16,,,34,,61,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-17,,,15,,65,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-18,,,19,,65,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-19,,,14,,66,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-20,,,17,,69,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-21,,,16,,84,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-22,,,13,,76,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-23,,,23,,,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-24,,,12,,76,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-25,,,13,,74,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-26,,,9,,74,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-27,,,19,,69,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-28,,,19,,88,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-29,,,23,,83,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-30,,,29,,,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-01-31,,,16,,75,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-02-01,,,20,,81,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-02-02,,,12,,77,
+KE,Kenya,Kirinyaga County,,,KE-15,,ChIJv-_OOS7VJxgRp7oZlT_tWBs,2022-02-03,,,13,,75,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-01,,,,,-23,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-02,,,,,12,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-03,,,,,5,7
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-04,,,,,15,7
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-05,,,,,15,7
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-06,,,,,25,8
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-07,,1,,,33,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-08,,,,,35,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-09,,,,,31,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-10,,,,,29,6
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-11,,,,,28,9
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-12,,,,,26,10
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-13,,,,,33,9
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-14,,1,,,42,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-15,,-1,,,43,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-16,,,,,40,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-17,,,,,26,15
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-18,,,,,38,11
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-19,,,,,32,12
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-20,,,,,40,11
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-21,,14,,,49,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-22,,,,,54,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-23,,,,,48,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-24,,,,,42,11
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-25,,,,,40,14
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-26,,,,,37,11
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-27,,,,,45,12
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-28,,13,,,55,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-29,,,,,49,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-30,,,,,49,
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-01-31,,,,,44,14
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-02-01,,,,,46,16
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-02-02,,,,,43,13
+KE,Kenya,Kisii County,,,KE-16,,ChIJo5TRIzlAKxgRtkCjxgHOMBc,2022-02-03,,,,,48,12
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-01,35,29,-10,14,-36,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-02,58,43,-5,50,2,4
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-03,71,69,-25,59,-2,5
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-04,68,67,-28,79,6,5
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-05,58,57,-23,59,8,5
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-06,55,58,-26,47,15,7
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-07,47,52,-28,46,28,6
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-08,40,45,-19,42,27,6
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-09,44,42,-9,49,20,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-10,56,50,-24,44,22,5
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-11,53,48,-28,47,18,5
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-12,50,47,-21,45,18,6
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-13,48,49,-22,38,21,5
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-14,50,42,-21,48,33,4
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-15,43,41,-18,46,33,7
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-16,46,35,-11,47,25,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-17,42,34,-28,36,22,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-18,45,41,-27,47,23,8
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-19,54,48,-14,33,20,7
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-20,56,53,-16,28,25,6
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-21,54,52,7,35,38,7
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-22,51,48,11,33,34,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-23,50,42,15,38,31,11
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-24,59,50,-13,33,32,8
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-25,59,48,-14,43,29,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-26,57,49,-10,37,25,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-27,58,48,-11,36,29,7
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-28,59,53,13,45,40,6
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-29,55,51,18,43,36,8
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-30,55,47,15,50,31,10
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-01-31,60,49,-14,38,34,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-02-01,62,53,-16,42,35,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-02-02,62,51,-5,34,30,9
+KE,Kenya,Kisumu County,,,KE-17,,ChIJ3_PD7Z-lKhgR71EwTssPkhY,2022-02-03,59,49,-9,34,33,6
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-01,,,8,-24,-50,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-02,,,-13,,-27,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-03,,,-14,4,-22,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-04,,,-20,8,-15,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-05,,,-22,-6,2,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-06,,,-17,-13,4,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-07,,,-21,-20,13,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-08,,,-18,-12,13,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-09,,,-24,,1,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-10,,,-24,-11,14,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-11,,,-25,-36,1,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-12,,,-12,-9,8,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-13,,,-12,-11,10,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-14,,,-6,-1,14,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-15,,,-2,5,20,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-16,,,-8,,10,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-17,,,2,-3,13,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-18,,,4,0,13,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-19,,,9,-2,18,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-20,,,7,9,20,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-21,,,7,9,23,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-22,,,10,12,29,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-23,,,7,,11,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-24,,,6,7,29,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-25,,,2,-2,27,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-26,,,11,4,32,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-27,,,8,8,29,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-28,,,10,-2,33,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-29,,,16,11,30,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-30,,,3,,22,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-01-31,,,-2,6,27,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-02-01,,,3,-4,25,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-02-02,,,8,-2,34,
+KE,Kenya,Kitui County,,,KE-18,,ChIJkd-oxpyxJBgR7y0NyQ_bnGI,2022-02-03,,,0,14,33,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-01,,,,,-19,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-02,,,,,19,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-03,,,,,11,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-04,,,,,28,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-05,,,,,25,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-06,,,,,31,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-07,,,,,39,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-08,,,,,33,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-09,,,,,27,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-10,,,,,31,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-11,,,,,28,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-12,,,,,33,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-13,,,,,33,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-14,,,,,38,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-15,,,,,38,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-16,,,,,36,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-17,,,,,35,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-18,,,,,43,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-19,,,,,36,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-20,,,,,35,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-21,,,,,41,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-22,,,,,37,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-23,,,,,33,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-24,,,,,36,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-25,,,,,40,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-26,,,,,38,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-27,,,,,39,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-28,,,,,43,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-29,,,,,33,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-30,,,,,40,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-01-31,,,,,44,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-02-01,,,,,44,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-02-02,,,,,42,
+KE,Kenya,Kwale County,,,KE-19,,ChIJz1hnn_ZYQBgR7ptqm_xU9FI,2022-02-03,,,,,47,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-01,66,,,9,-22,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-02,,,,75,13,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-03,,,,40,13,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-04,,,,38,15,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-05,,,,26,24,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-06,,,,17,26,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-07,,,,19,34,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-08,58,,,24,38,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-09,,,,44,23,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-10,,,,25,34,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-11,,,,12,22,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-12,,,,14,33,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-13,,,,9,33,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-14,,,,15,39,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-15,71,,,12,43,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-16,,,,36,34,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-17,,,,12,42,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-18,,,,5,31,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-19,,,,0,43,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-20,,,,1,40,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-21,,,,5,45,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-22,71,,,5,45,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-23,,,,31,31,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-24,,,,10,47,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-25,,,,8,39,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-26,,,,3,41,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-27,,,,5,44,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-28,,,,11,45,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-29,,,,19,47,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-30,,,,32,30,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-01-31,,,,19,47,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-02-01,,,,13,41,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-02-02,,,,0,49,
+KE,Kenya,Laikipia County,,,KE-20,,ChIJBewZBCQ1hhcR3thxCfeni5I,2022-02-03,,,,7,44,
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-01,28,-14,15,29,-45,10
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-02,56,2,23,67,14,3
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-03,40,5,,72,-3,9
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-04,44,3,,82,8,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-05,45,-1,34,70,16,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-06,48,3,21,66,19,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-07,49,0,18,71,28,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-08,53,-1,15,59,38,5
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-09,58,-9,34,74,38,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-10,29,-7,18,65,26,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-11,22,-14,-3,41,24,-1
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-12,21,-20,7,35,21,-3
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-13,40,-11,21,56,28,2
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-14,46,0,21,65,35,4
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-15,50,-8,26,61,40,2
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-16,56,-5,,69,44,5
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-17,22,-14,14,60,29,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-18,30,-5,,56,29,3
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-19,35,-3,37,69,31,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-20,45,7,26,62,31,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-21,47,11,35,71,39,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-22,63,12,33,73,44,5
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-23,60,1,,80,51,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-24,34,2,30,62,35,9
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-25,40,5,,70,36,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-26,40,4,48,58,36,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-27,41,5,35,70,36,5
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-28,48,14,33,75,43,5
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-29,63,17,79,70,48,3
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-30,68,12,,84,53,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-01-31,35,6,33,71,37,8
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-02-01,38,7,,76,37,7
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-02-02,48,8,48,73,40,6
+KE,Kenya,Machakos County,,,KE-22,,ChIJDT69wKqaLxgR9kKUCG3h0Q0,2022-02-03,58,17,42,81,37,5
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-01,,,,36,-26,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-03,,,,,4,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-04,,,,,19,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-05,,,,38,30,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-06,,,,34,32,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-07,,,,48,39,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-10,,,,,31,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-11,,,,,26,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-12,,,,,22,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-13,,,,,28,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-14,,,,,33,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-17,,,,,29,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-18,,,,,35,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-19,,,,,36,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-20,,,,,38,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-21,,,,,52,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-24,,,,,35,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-25,,,,,35,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-26,,,,,33,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-27,,,,,34,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-28,,,,,40,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-01-31,,,,,43,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-02-01,,,,,41,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-02-02,,,,,38,
+KE,Kenya,Makueni County,,,KE-23,,ChIJqdx4r-W4OhgRSOjg6ol2Upg,2022-02-03,,,,,42,
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-01,56,10,,16,-33,5
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-02,,,,,-6,
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-03,,,,67,2,3
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-04,,,,77,11,4
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-05,65,43,,58,18,3
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-06,,39,,33,24,7
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-07,71,34,,42,39,5
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-08,66,33,,42,44,7
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-09,48,,,63,26,
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-10,,33,,39,38,7
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-11,,33,,28,32,4
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-12,65,35,,37,39,6
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-13,,32,,26,39,7
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-14,73,40,,34,51,5
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-15,69,36,,41,51,8
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-16,54,30,,58,37,
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-17,,31,,31,45,11
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-18,,20,,24,34,6
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-19,67,33,,47,42,8
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-20,,34,,37,41,8
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-21,73,36,,44,49,8
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-22,68,37,,37,54,9
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-23,54,,,65,37,
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-24,,35,,42,43,9
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-25,,28,,37,37,9
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-26,,33,,39,39,9
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-27,,36,,30,40,10
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-28,84,36,,32,50,8
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-29,81,38,,40,50,9
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-30,,,,60,37,
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-01-31,,33,,43,45,10
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-02-01,,30,,42,42,10
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-02-02,,33,,33,44,8
+KE,Kenya,Meru County,,,KE-26,,ChIJfRoqaws7iBcRd6Mp1d9Pavs,2022-02-03,,38,,25,43,9
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-01,,,,,-18,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-03,,,,,15,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-04,,,,,32,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-05,,,,,35,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-06,,,,,38,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-07,,,,,46,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-10,,,,,44,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-11,,,,,46,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-12,,,,,49,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-13,,,,,48,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-14,,,,,51,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-17,,,,,38,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-18,,,,,53,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-19,,,,,53,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-20,,,,,60,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-21,,,,,52,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-24,,,,,56,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-25,,,,,63,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-26,,,,,58,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-27,,,,,59,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-28,,,,,63,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-01-31,,,,,55,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-02-01,,,,,66,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-02-02,,,,,62,
+KE,Kenya,Migori County,,,KE-27,,ChIJQy4jPG-s1BkRMuVVuEPtqd0,2022-02-03,,,,,62,
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-01,21,-2,111,14,-51,6
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-02,24,18,63,35,2,2
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-03,40,34,38,39,-4,5
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-04,34,34,36,35,4,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-05,36,32,49,34,8,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-06,32,28,44,28,10,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-07,29,24,44,24,15,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-08,26,26,43,22,19,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-09,18,18,45,23,17,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-10,39,32,42,36,16,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-11,30,28,47,20,14,2
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-12,33,28,54,27,17,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-13,34,27,46,24,16,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-14,30,25,60,28,22,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-15,27,28,50,25,24,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-16,19,17,50,30,20,5
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-17,35,27,43,33,19,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-18,31,27,47,28,20,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-19,36,28,47,28,22,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-20,36,25,43,22,21,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-21,31,21,47,30,25,5
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-22,27,25,47,27,24,5
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-23,18,16,35,23,21,6
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-24,35,24,33,35,22,5
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-25,35,30,42,30,22,5
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-26,37,30,53,32,23,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-27,38,27,41,32,24,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-28,36,29,48,32,29,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-29,29,33,48,28,27,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-30,19,22,48,29,26,6
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-01-31,40,31,37,35,25,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-02-01,40,36,50,34,25,4
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-02-02,44,39,55,36,26,3
+KE,Kenya,Mombasa County,,,KE-28,,ChIJM45ffcMMQBgRLEF4BSSBr7A,2022-02-03,41,31,46,35,27,4
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-01,,,,10,-25,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-02,,,,61,13,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-03,,,,,11,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-04,,,,26,20,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-05,,,,17,33,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-06,,,,8,40,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-07,,,,3,45,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-08,,,,14,46,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-09,,,,28,38,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-10,,,,,47,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-11,,,,16,42,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-12,,,,17,49,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-13,,,,12,54,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-14,,,,16,52,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-15,,,,24,50,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-16,,,,32,37,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-17,,,,,47,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-18,,,,9,43,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-19,,,,1,52,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-20,,,,-4,56,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-21,,,,4,55,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-22,,,,2,57,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-23,,,,6,41,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-24,,,,,54,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-25,,,,7,48,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-26,,,,-2,51,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-27,,,,6,58,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-28,,,,3,64,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-29,,,,14,59,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-30,,,,7,47,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-01-31,,,,,60,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-02-01,,,,9,60,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-02-02,,,,3,66,
+KE,Kenya,Muranga County,,,KE-29,,ChIJS9bAnnm5KBgR5z9O2JpASPc,2022-02-03,,,,4,68,
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-01,-12,5,-13,8,-50,10
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-02,11,29,10,48,14,3
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-03,23,43,-37,48,-14,10
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-04,23,48,-33,61,-5,9
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-05,24,43,-34,56,1,9
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-06,25,44,-32,56,4,9
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-07,24,43,-23,59,10,9
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-08,25,47,5,59,26,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-09,24,44,21,64,36,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-10,30,43,-21,58,11,7
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-11,25,40,-25,56,9,5
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-12,26,40,-25,54,10,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-13,27,42,-26,56,11,7
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-14,27,42,-19,61,16,7
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-15,22,39,-4,52,26,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-16,23,42,24,62,34,5
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-17,26,35,-11,56,12,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-18,23,37,-19,60,12,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-19,26,34,-23,57,14,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-20,28,42,-18,59,14,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-21,27,40,-14,62,19,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-22,27,45,5,57,29,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-23,25,40,29,61,37,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-24,30,38,-24,60,16,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-25,27,39,-22,63,15,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-26,30,41,-23,60,16,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-27,31,44,-21,61,16,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-28,32,45,-15,67,21,6
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-29,31,50,3,61,30,4
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-30,28,46,24,65,38,5
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-01-31,31,42,-25,61,17,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-02-01,31,46,-26,69,17,7
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-02-02,33,44,-24,64,19,8
+KE,Kenya,Nairobi County,,,KE-30,,ChIJQRUxXGURLxgRl7gQHKxp150,2022-02-03,34,47,-18,68,19,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-01,45,39,23,-13,-32,9
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-02,74,79,10,18,17,2
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-03,88,91,4,17,13,5
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-04,84,90,4,10,24,2
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-05,78,81,1,6,30,5
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-06,68,72,4,6,30,5
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-07,68,64,3,4,36,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-08,63,63,3,2,37,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-09,55,68,-6,4,36,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-10,75,67,2,2,38,4
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-11,65,59,2,4,37,3
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-12,71,65,5,-1,37,5
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-13,69,63,4,7,35,6
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-14,70,60,4,5,42,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-15,64,55,6,0,41,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-16,55,61,-6,4,37,9
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-17,69,56,0,-2,42,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-18,67,54,0,-1,44,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-19,75,64,14,-5,43,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-20,73,64,16,-2,43,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-21,72,62,14,0,47,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-22,67,60,13,-4,43,9
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-23,61,71,-2,0,43,9
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-24,76,64,7,-2,50,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-25,75,66,19,-1,51,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-26,82,70,15,-1,46,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-27,69,69,17,4,43,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-28,72,69,20,8,49,7
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-29,68,70,14,-3,42,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-30,61,78,2,5,44,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-01-31,74,70,7,-1,50,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-02-01,72,70,13,-3,52,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-02-02,77,80,16,0,50,8
+KE,Kenya,Nakuru County,,,KE-31,,ChIJB5Vlei2CKRgRHKDRDxWQYqk,2022-02-03,77,78,22,8,48,7
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-01,,,,,-39,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-02,,,,,-7,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-03,,,,,-9,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-04,,,,,4,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-05,,,,,14,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-06,,,,,21,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-07,,,,,33,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-08,,,,,34,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-10,,,,,26,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-11,,,,,16,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-12,,,,,25,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-13,,,,,32,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-14,,,,,40,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-15,,,,,28,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-17,,,,,20,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-18,,,,,31,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-19,,,,,31,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-20,,,,,37,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-21,,,,,47,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-22,,,,,37,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-24,,,,,34,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-25,,,,,34,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-26,,,,,34,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-27,,,,,37,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-28,,,,,49,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-29,,,,,42,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-01-31,,,,,33,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-02-01,,,,,41,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-02-02,,,,,35,
+KE,Kenya,Nandi County,,,KE-32,,ChIJK0uOxbtmgBcRkDi2nc7PjOw,2022-02-03,,,,,43,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-01,,,0,,-37,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-02,,,-16,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-03,,,-22,,15,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-04,,,-28,,27,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-05,,,-28,,27,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-06,,,-27,,32,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-07,,,-28,,36,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-08,,,-26,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-09,,,-33,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-10,,,-38,,45,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-11,,,-39,,37,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-12,,,-34,,40,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-13,,,-30,,43,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-14,,,-35,,42,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-15,,,-27,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-16,,,-36,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-17,,,-35,,41,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-18,,,-38,,48,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-19,,,-33,,48,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-20,,,-28,,50,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-21,,,-33,,53,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-22,,,-25,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-23,,,-28,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-24,,,-32,,57,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-25,,,-38,,53,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-26,,,-31,,56,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-27,,,-28,,51,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-28,,,-29,,61,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-29,,,-25,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-30,,,-30,,,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-01-31,,,-35,,65,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-02-01,,,-36,,69,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-02-02,,,-34,,70,
+KE,Kenya,Narok County,,,KE-33,,ChIJh8-jrpUKLBgRT5q61-s4u0o,2022-02-03,,,-26,,67,
+KE,Kenya,Nyandarua County,,,KE-35,,ChIJl01Ib--xKRgRM6FGee-2_Rw,2022-01-03,,,,,16,
+KE,Kenya,Nyandarua County,,,KE-35,,ChIJl01Ib--xKRgRM6FGee-2_Rw,2022-01-04,,,,,35,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-01,15,33,30,83,-29,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-02,16,70,26,,4,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-03,23,83,0,,8,5
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-04,17,85,6,,12,3
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-05,18,78,-3,,17,4
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-06,20,70,-4,,25,5
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-07,18,59,,78,30,9
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-08,15,51,-6,,35,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-09,11,45,6,,31,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-10,14,62,2,,36,5
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-11,8,60,9,,27,5
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-12,24,63,3,,32,6
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-13,22,67,8,,39,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-14,19,59,,87,39,9
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-15,21,50,9,,45,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-16,12,41,17,,39,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-17,20,60,12,,41,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-18,13,57,22,,37,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-19,24,65,16,,38,7
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-20,28,66,16,,45,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-21,22,61,,82,45,10
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-22,22,49,9,85,47,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-23,13,43,24,,44,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-24,17,57,9,71,50,9
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-25,15,58,24,,38,10
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-26,24,62,19,74,37,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-27,24,66,17,,42,10
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-28,26,64,,82,45,9
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-29,22,48,16,,43,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-30,15,48,21,,37,
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-01-31,21,56,7,,43,9
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-02-01,13,59,18,,40,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-02-02,23,64,16,,43,8
+KE,Kenya,Nyeri County,,,KE-36,,ChIJQVRG-SlHKBgR1s-VEm1HNfg,2022-02-03,26,71,17,,44,8
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-01,,,,,-17,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-03,,,,,22,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-04,,,,,29,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-05,,,,,38,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-06,,,,,45,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-07,,,,,63,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-10,,,,,56,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-11,,,,,51,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-12,,,,,47,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-13,,,,,50,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-14,,,,,52,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-17,,,,,37,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-18,,,,,50,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-19,,,,,51,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-20,,,,,58,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-21,,,,,63,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-24,,,,,66,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-25,,,,,59,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-26,,,,,60,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-27,,,,,63,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-28,,,,,66,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-01-31,,,,,61,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-02-01,,,,,67,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-02-02,,,,,65,
+KE,Kenya,Siaya,,,KE-38,,ChIJr-N4PvVT1RkR7GR51u6TLi4,2022-02-03,,,,,72,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-01,,,,,-15,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-03,,,,,34,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-04,,,,,46,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-05,,,,,50,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-06,,,,,60,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-07,,,,,74,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-10,,,,,64,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-11,,,,,52,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-12,,,,,57,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-13,,,,,58,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-17,,,,,71,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-18,,,,,69,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-19,,,,,65,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-20,,,,,71,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-24,,,,,79,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-25,,,,,77,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-26,,,,,76,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-27,,,,,71,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-01-31,,,,,88,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-02-01,,,,,77,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-02-02,,,,,76,
+KE,Kenya,Taita-Taveta County,,,KE-39,,ChIJU_a4RvTOOxgRN_z_NJSfmvE,2022-02-03,,,,,83,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-01,,,,,-53,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-02,,,,,-36,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-03,,,,,-17,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-04,,,,,-17,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-05,,,,,-4,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-06,,,,,-4,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-07,,,,,8,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-08,,,,,-4,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-09,,,,,-15,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-10,,,,,5,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-11,,,,,-1,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-12,,,,,3,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-13,,,,,8,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-14,,,,,11,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-15,,,,,6,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-16,,,,,-12,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-17,,,,,13,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-18,,,,,7,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-19,,,,,13,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-20,,,,,19,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-21,,,,,23,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-22,,,,,14,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-23,,,,,-9,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-24,,,,,21,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-25,,,,,14,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-26,,,,,18,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-27,,,,,19,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-28,,,,,28,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-29,,,,,14,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-30,,,,,-1,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-01-31,,,,,30,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-02-01,,,,,21,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-02-02,,,,,26,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,ChIJf0qk8_meJxgR9B1erUkCId8,2022-02-03,,,,,29,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-01,,,,8,-45,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-02,,,,,12,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-03,,,,,7,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-04,,,,,19,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-05,,,,,28,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-06,,,,39,31,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-07,,,,58,35,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-08,,,,42,36,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-09,,,,,32,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-10,,,,42,29,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-11,,,,,33,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-12,,,,,33,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-13,,,,50,36,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-14,,,,70,41,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-15,,,,70,37,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-16,,,,,34,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-17,,,,63,34,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-18,,,,64,40,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-19,,,,49,40,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-20,,,,42,42,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-21,,,,53,48,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-22,,,,54,45,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-23,,,,,34,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-24,,,,50,39,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-25,,,,48,43,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-26,,,,51,46,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-27,,,,30,48,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-28,,,,50,48,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-29,,,,56,45,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-30,,,,,37,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-01-31,,,,47,42,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-02-01,,,,49,45,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-02-02,,,,54,48,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,ChIJsRE1RZj1gRcR-c6BBeh-GL4,2022-02-03,,,,41,49,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-01,,,,,-42,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-03,,,,,-22,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-04,,,,,-2,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-05,,,,,9,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-06,,,,,14,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-07,,,,,23,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-08,,,,,9,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-10,,,,,20,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-11,,,,,28,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-12,,,,,31,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-13,,,,,24,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-14,,,,,31,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-17,,,,,16,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-18,,,,,7,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-19,,,,,39,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-20,,,,,31,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-21,,,,,44,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-24,,,,,39,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-25,,,,,40,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-26,,,,,54,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-27,,,,,44,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-28,,,,,50,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-01-31,,,,,38,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-02-01,,,,,41,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-02-02,,,,,53,
+KE,Kenya,Turkana County,,,KE-43,,ChIJwVIOk8legxcRlbPqCGr27WE,2022-02-03,,,,,40,
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-01,53,-4,33,40,-34,7
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-02,67,19,61,80,12,3
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-03,95,35,69,,7,4
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-04,83,31,71,108,17,4
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-05,78,28,56,102,24,5
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-06,79,26,54,85,29,6
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-07,74,26,64,88,39,6
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-08,83,25,53,94,44,5
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-09,60,19,67,82,36,8
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-10,79,25,57,,38,5
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-11,70,20,60,91,34,5
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-12,71,18,48,89,37,7
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-13,77,21,50,86,39,8
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-14,73,24,69,102,49,8
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-15,71,18,53,89,52,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-16,57,10,60,69,41,13
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-17,65,10,56,,36,16
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-18,70,19,71,89,43,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-19,84,21,63,95,47,9
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-20,86,22,66,79,46,10
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-21,88,28,74,112,56,9
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-22,86,25,66,112,57,10
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-23,66,15,74,85,49,13
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-24,89,22,77,,52,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-25,84,23,89,99,50,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-26,79,24,70,92,49,10
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-27,85,28,70,83,51,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-28,87,32,89,116,61,9
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-29,90,35,84,119,59,10
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-30,75,25,82,103,49,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-01-31,89,29,83,,53,12
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-02-01,85,31,87,104,53,11
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-02-02,85,32,72,94,57,10
+KE,Kenya,Uasin Gishu County,,,KE-44,,ChIJu2Cj2i4AgRcRK-jHMvRD0ac,2022-02-03,92,38,70,89,58,10
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-01,,,,21,-36,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-02,,,,51,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-03,,,,45,-17,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-04,,,,48,-3,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-05,,,,41,1,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-06,,,,41,15,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-07,,,,29,20,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-08,,,,27,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-09,,,,20,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-10,,,,30,18,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-11,,,,22,15,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-12,,,,20,21,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-13,,,,38,25,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-14,,,,39,27,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-15,,,,44,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-16,,,,29,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-17,,,,11,15,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-18,,,,14,29,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-19,,,,28,22,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-20,,,,47,37,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-21,,,,36,38,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-22,,,,42,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-23,,,,34,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-24,,,,37,27,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-25,,,,43,29,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-26,,,,31,27,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-27,,,,38,32,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-28,,,,33,37,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-29,,,,31,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-30,,,,36,,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-01-31,,,,29,32,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-02-01,,,,33,35,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-02-02,,,,34,32,
+KE,Kenya,Vihiga County,,,KE-45,,ChIJWUFgeCcMgBcRGUmTjtyNRH4,2022-02-03,,,,49,35,

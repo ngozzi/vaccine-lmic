@@ -1,0 +1,1927 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-01,-46,-35,1,-61,-70,8
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-02,-5,14,18,-9,-12,-4
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-03,5,43,0,-11,-14,1
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-04,3,38,-3,-17,-9,1
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-05,5,44,2,-11,-8,1
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-06,2,36,-1,-10,-7,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-07,-1,33,-3,-4,-1,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-08,-5,24,-8,-7,5,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-09,-8,16,1,-5,7,1
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-10,2,36,-6,-2,-2,0
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-11,2,34,-5,-4,-3,1
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-12,0,35,-5,-4,-5,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-13,-3,28,-9,-8,-5,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-14,2,34,-3,-3,2,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-15,1,32,-2,0,8,1
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-16,-4,23,3,-5,8,0
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-17,3,39,-6,-3,-1,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-18,5,38,-1,-3,-1,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-19,4,39,0,-3,-3,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-20,3,34,-2,-5,-3,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-21,1,33,-3,-4,2,4
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-22,-3,25,-5,-9,8,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-23,-8,15,0,-12,11,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-24,3,36,-4,-7,0,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-25,12,36,12,-5,-2,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-26,4,40,0,-6,-5,4
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-27,-9,16,-9,-17,-19,9
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-28,2,34,-4,-5,3,4
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-29,-5,23,-13,-9,7,4
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-30,-8,17,-9,-13,8,4
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-01-31,10,44,0,0,2,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-02-01,10,43,3,-1,1,2
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-02-02,9,46,5,0,-1,3
+HN,Honduras,,,,,,ChIJzzG3cxp1ao8RZIL7toLe0X4,2022-02-03,5,36,1,-5,-2,4
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-01,-27,-8,13,-50,-67,0
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-02,15,38,28,56,-25,-11
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-03,-1,64,5,20,-16,-7
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-04,-4,46,1,14,-8,-5
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-05,-5,55,4,13,-12,-4
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-06,-2,49,6,8,-11,-3
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-07,-8,47,2,0,-5,-4
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-08,-15,36,-3,-2,-5,-5
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-09,-7,27,0,9,-18,-5
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-10,-7,47,-7,0,-6,-5
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-11,-8,41,-3,-5,0,-5
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-12,-10,40,-5,-1,-6,-2
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-13,-11,37,-10,0,-9,-1
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-14,-9,34,-3,2,1,-2
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-15,-9,48,-2,-5,1,-3
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-16,-7,27,-7,4,-8,-3
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-17,-13,38,-14,-7,-2,0
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-18,-4,47,-3,2,6,-2
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-19,-3,47,1,9,-2,-3
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-20,-2,42,-3,8,-2,-1
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-21,-4,44,-4,6,3,-1
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-22,-11,32,-9,-2,0,-1
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-23,-7,24,-6,6,-6,-1
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-24,-6,41,-6,3,1,-2
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-25,5,37,6,7,7,-3
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-26,-6,45,-3,1,-1,-1
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-27,-9,31,-10,-3,-3,0
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-28,-5,38,-2,6,4,-2
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-29,-20,25,-23,-6,1,0
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-30,-33,-1,-38,-26,-20,6
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-01-31,0,52,0,22,3,-2
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-02-01,3,47,-1,9,7,-4
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-02-02,1,49,-2,7,1,-3
+HN,Honduras,Atlántida Department,,,HN-AT,,ChIJAeYO7TbxaI8RgZBBYhzQ-Nc,2022-02-03,0,43,-3,9,-1,-3
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-01,,,2,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-02,,,-4,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-03,,,-16,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-04,,,-19,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-05,,,-13,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-06,,,-16,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-07,,,-15,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-08,,,-21,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-09,,,-20,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-10,,,-21,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-11,,,-22,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-12,,,-23,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-13,,,-29,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-14,,,-21,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-15,,,-27,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-16,,,-23,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-17,,,-32,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-18,,,-32,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-19,,,-25,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-20,,,-30,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-21,,,-28,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-22,,,-37,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-23,,,-26,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-24,,,-31,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-25,,,-24,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-26,,,-24,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-27,,,-29,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-28,,,-22,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-29,,,-33,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-30,,,-32,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-01-31,,,-30,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-02-01,,,-27,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-02-02,,,-26,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,ChIJ9yHGVZ12aY8RcEJ5cUxHSrg,2022-02-03,,,-33,,,
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-01,-52,-19,-7,-61,-72,1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-02,-6,28,48,72,-24,-12
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-03,-14,60,17,29,-17,-6
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-04,-14,42,12,22,-4,-5
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-05,-18,48,14,23,-9,-3
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-06,-14,47,8,16,-8,-2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-07,-18,48,11,10,-4,-2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-08,-25,30,4,3,-1,-4
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-09,-18,22,18,23,-14,-5
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-10,-18,41,-3,10,-5,-5
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-11,-16,39,7,3,5,-4
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-12,-20,38,5,6,-2,-3
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-13,-19,38,-3,8,-4,-1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-14,-19,34,6,11,2,-2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-15,-21,45,8,-1,4,-3
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-16,-14,27,7,13,-3,-4
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-17,-22,33,-4,1,-1,0
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-18,-14,44,13,14,9,-1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-19,-11,43,15,18,1,-2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-20,-12,37,4,15,-1,0
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-21,-15,40,9,15,4,0
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-22,-21,27,0,2,4,0
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-23,-15,21,12,18,-1,-1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-24,-16,36,9,12,0,-1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-25,-7,34,21,11,10,-2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-26,-17,38,8,9,1,0
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-27,-19,32,-4,5,-1,1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-28,-15,37,9,15,5,0
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-29,-29,23,-18,-1,5,2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-30,-38,-4,-35,-19,-17,6
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-01-31,-10,49,14,37,3,-1
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-02-01,-6,47,14,18,11,-3
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-02-02,-10,43,12,15,5,-2
+HN,Honduras,Atlántida Department,La Ceiba,,,,ChIJC-p_56kIaY8RsK2HmSr2_Kk,2022-02-03,-9,41,9,15,1,-3
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-01,74,16,75,,-56,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-02,,,72,,-20,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-03,,,8,,-12,-10
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-04,,,2,,-10,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-05,,,7,,-9,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-06,,,21,,-12,-7
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-07,19,50,13,,-3,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-08,9,43,7,,-7,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-09,,,13,,-15,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-10,,51,-5,,-4,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-11,,,-6,,-2,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-12,,,-9,,-4,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-13,,31,-7,,-18,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-14,11,33,8,,2,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-15,16,51,10,,1,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-16,,,7,,-6,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-17,,45,-14,,3,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-18,,,-1,,4,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-19,,,-3,,0,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-20,,,6,,0,-4
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-21,17,42,6,,3,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-22,9,33,7,,1,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-23,,,5,,-10,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-24,,46,-13,,9,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-25,,,3,,10,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-26,,,2,,3,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-27,,33,-2,,-2,-2
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-28,17,31,4,,6,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-29,0,18,-20,,1,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-30,,,-38,,-19,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-01-31,,52,7,,7,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-02-01,,,2,,10,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-02-02,,,-8,,7,
+HN,Honduras,Atlántida Department,Tela,,,,ChIJI4tqXKkrZo8RRBsz6l2ITew,2022-02-03,,,-1,,-2,-5
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-01,-26,,19,-43,-57,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-02,,,23,,-24,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-03,,5,14,1,-24,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-04,,9,-11,,-25,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-05,,5,2,,-21,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-06,-21,4,-27,-12,-22,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-07,,12,16,,-15,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-08,-21,0,-3,0,-22,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-09,,,12,,-19,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-10,,3,12,-3,-17,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-11,,-1,-17,,-18,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-12,,-3,-8,51,-23,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-13,-25,-4,-29,-2,-20,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-14,-14,3,3,18,-12,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-15,-17,-2,3,0,-18,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-16,,,-3,,-23,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-17,,7,-8,-13,-15,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-18,,4,-10,,-19,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-19,,3,-16,,-14,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-20,-17,4,-27,12,-15,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-21,,7,13,,-8,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-22,-15,1,-4,28,-14,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-23,,,-1,,-13,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-24,,12,-2,-11,-11,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-25,,6,-19,,-13,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-26,,0,-22,39,-15,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-27,-22,-3,-26,-1,-13,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-28,-12,5,0,36,-8,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-29,-28,-15,-21,-6,-18,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-30,,,-13,,-17,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-01-31,,10,2,4,-10,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-02-01,,16,-10,,-12,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-02-02,,9,-8,,-9,
+HN,Honduras,Bay Islands Department,,,HN-IB,,ChIJb1T5-hfmaY8RnbXMuoc3O1w,2022-02-03,-18,4,-29,-10,-11,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-01,-35,-52,11,-49,-57,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-02,,,12,105,-18,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-03,,2,3,-11,-21,-2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-04,-15,5,-16,60,-20,-1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-05,-6,1,-3,104,-17,0
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-06,-22,2,-33,-16,-20,2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-07,-13,10,14,63,-10,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-08,-23,-1,-3,-7,-15,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-09,,,10,68,-15,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-10,-10,-1,5,-5,-11,0
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-11,-19,-2,-19,77,-11,1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-12,-14,-6,-9,57,-15,2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-13,-23,-4,-34,-2,-17,3
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-14,-18,1,0,22,-4,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-15,-20,,1,0,-11,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-16,,,-7,44,-19,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-17,,1,-9,-18,-9,1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-18,-12,4,-9,160,-10,2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-19,-8,-3,-21,102,-8,5
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-20,-19,1,-36,10,-12,2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-21,-8,5,8,91,-3,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-22,-16,-2,-7,26,-6,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-23,-15,,-3,92,-7,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-24,-8,3,-11,-15,-3,2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-25,-7,6,-23,67,-7,-1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-26,-13,-6,-28,40,-7,1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-27,-24,-6,-34,-3,-10,4
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-28,-16,2,-2,41,-1,1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-29,-27,-13,-26,-7,-9,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-30,,,-12,43,-9,
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-01-31,-5,8,-3,-3,-3,1
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-02-01,-1,13,-13,106,-2,-2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-02-02,-1,3,-15,79,-4,-2
+HN,Honduras,Bay Islands Department,Roatán,,,,ChIJGfQ8Zm3raY8RC_a7cliBJww,2022-02-03,-18,-1,-35,-14,-4,0
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-01,-27,-36,12,,-68,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-02,21,18,32,,-15,
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-03,28,41,8,,-4,-1
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-04,22,35,14,,-1,-3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-05,17,36,18,,1,-3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-06,17,28,5,,-1,-3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-07,13,23,10,,7,-2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-08,15,19,-5,,10,-1
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-09,14,15,7,,-3,
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-10,16,29,8,,4,-2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-11,14,24,8,,4,0
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-12,16,29,10,,5,0
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-13,15,23,7,,4,-1
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-14,15,22,7,,13,1
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-15,16,25,7,,12,2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-16,14,22,16,,-2,
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-17,21,34,15,,6,2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-18,17,29,8,,6,2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-19,11,24,11,,5,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-20,18,23,12,,5,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-21,14,19,10,,14,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-22,14,15,7,,12,4
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-23,8,3,19,,1,
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-24,21,24,4,,9,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-25,30,23,22,,9,2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-26,14,22,14,,5,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-27,6,10,3,,5,5
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-28,16,20,9,,16,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-29,20,17,6,,18,4
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-30,15,11,21,,7,
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-01-31,24,31,9,,11,3
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-02-01,23,28,8,,9,2
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-02-02,24,33,10,,10,1
+HN,Honduras,Choluteca Department,,,HN-CH,,ChIJFWlsSi0PcI8RZbtVunp6hFg,2022-02-03,20,22,11,,7,3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-01,-44,-46,-12,,-72,0
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-02,10,12,29,,-14,-6
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-03,21,36,9,,-7,-3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-04,15,31,13,,-3,-5
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-05,14,31,17,1,-2,-4
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-06,11,23,2,-5,-2,-4
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-07,8,17,19,-2,6,-3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-08,9,15,1,-3,11,-3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-09,11,15,14,,1,-1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-10,11,23,7,-3,1,-3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-11,9,22,7,,3,-1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-12,15,24,16,2,3,-2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-13,11,17,10,1,2,-2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-14,12,20,17,-6,11,0
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-15,13,20,14,2,11,-1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-16,9,20,25,,2,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-17,13,28,24,,3,0
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-18,11,26,6,6,4,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-19,8,19,18,-4,3,2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-20,15,19,12,,4,3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-21,9,12,14,2,11,2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-22,10,8,14,3,10,2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-23,1,2,31,,1,
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-24,15,20,9,,5,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-25,22,19,21,3,6,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-26,12,17,12,2,2,2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-27,2,6,0,,4,3
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-28,12,15,18,,14,2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-29,14,13,12,3,16,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-30,12,9,24,,10,2
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-01-31,19,27,14,9,8,0
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-02-01,18,25,9,,7,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-02-02,21,29,9,2,5,1
+HN,Honduras,Choluteca Department,Choluteca,,,,ChIJuyj7VrRqcI8RBjmG_mNzf6k,2022-02-03,16,19,8,,6,1
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-01,-29,-20,29,,-63,0
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-02,7,,,,-33,
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-03,21,,,,-19,-8
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-04,16,,,,-9,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-05,23,,,,-10,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-06,16,,,,-10,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-07,13,,,,-1,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-08,0,30,19,,-6,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-09,1,,,,-21,
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-10,14,,,,-10,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-11,14,,,,0,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-12,17,,,,-7,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-13,10,,,,-9,-7
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-14,12,,,,-2,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-15,6,31,17,,-4,-3
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-16,-1,,,,-23,
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-17,10,,,,-12,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-18,18,,,,-1,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-19,18,,,,-8,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-20,19,,,,-8,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-21,11,,,,1,-4
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-22,-1,38,24,,-1,-3
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-23,5,,,,-15,
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-24,21,,,,-11,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-25,21,,,,-2,-7
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-26,21,,,,-10,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-27,10,,,,-7,-3
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-28,9,,,,2,-5
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-29,-3,27,6,,-5,-3
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-30,-6,,,,-19,
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-01-31,24,,,,-6,-6
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-02-01,24,,,,2,-7
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-02-02,28,,,,-5,-7
+HN,Honduras,Colón Department,,,HN-CL,,ChIJh0lN3JM3ao8RX5-Tzd5ZMGE,2022-02-03,24,,,,-2,-6
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-01,-44,-36,-43,,-75,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-02,1,,,,-35,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-03,,34,,,-19,-6
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-04,,30,,,-6,-5
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-05,,33,,,-9,-4
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-06,,27,,,-11,-5
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-07,13,30,,,-2,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-08,-7,19,,,-8,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-09,-5,,,,-18,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-10,,31,,,-8,-6
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-11,,17,,,1,-5
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-12,,33,,,-6,-4
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-13,,28,,,-8,-6
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-14,12,27,,,-1,-5
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-15,6,21,,,-9,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-16,6,,,,-21,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-17,,14,,,-10,-5
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-18,,38,,,1,-4
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-19,,41,,,-3,-2
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-20,,29,,,-7,-4
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-21,13,34,,,4,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-22,-4,26,,,-1,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-23,8,,,,-11,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-24,,32,,,-7,-3
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-25,,28,,,1,-5
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-26,,38,,,-9,-3
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-27,,28,,,-6,-2
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-28,8,35,,,1,-3
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-29,-2,24,,,-5,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-30,1,,,,-20,
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-01-31,,40,,,-7,-8
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-02-01,,41,,,3,-4
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-02-02,,53,,,-9,-4
+HN,Honduras,Colón Department,Tocoa,,,,ChIJoTFbumfIa48Rp3LPDxH3KFg,2022-02-03,,50,,,-6,-5
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-01,,,,,-45,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-03,,,,,-22,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-04,,,,,-15,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-05,,,,,-17,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-06,,,,,-17,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-07,,,,,-6,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-08,,,,,-13,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-10,,,,,-11,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-11,,,,,5,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-12,,,,,-2,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-13,,,,,-18,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-14,,,,,-6,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-15,,,,,5,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-17,,,,,-9,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-18,,,,,-2,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-19,,,,,-11,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-20,,,,,-9,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-21,,,,,0,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-22,,,,,-3,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-24,,,,,-5,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-25,,,,,0,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-26,,,,,-15,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-27,,,,,-13,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-28,,,,,9,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-29,,,,,-7,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-01-31,,,,,-3,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-02-01,,,,,5,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-02-02,,,,,-2,
+HN,Honduras,Colón Department,Trujillo,,,,ChIJ1dMg_Nw1ao8RQ4MkwHrkmEc,2022-02-03,,,,,11,
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-01,-31,-14,19,,-65,5
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-02,21,39,27,,-15,-4
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-03,22,60,6,,0,-2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-04,14,58,-2,,-1,-1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-05,16,68,6,,0,-1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-06,12,58,13,,-1,-1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-07,4,48,-2,,10,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-08,3,46,-9,,12,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-09,4,34,10,,2,-1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-10,10,50,-2,,8,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-11,12,45,-1,,2,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-12,10,51,-1,,3,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-13,6,45,-5,,0,-1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-14,7,49,-5,,15,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-15,9,54,-4,,17,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-16,8,42,12,,4,-1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-17,12,54,-2,,11,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-18,11,54,-3,,5,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-19,14,61,3,,6,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-20,13,52,6,,5,2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-21,6,49,-7,,17,2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-22,4,45,-9,,17,2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-23,1,28,5,,3,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-24,11,53,0,,16,2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-25,16,51,20,,9,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-26,12,57,9,,6,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-27,6,47,8,,3,3
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-28,4,48,-6,,19,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-29,6,47,-8,,19,2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-30,-1,33,-2,,3,2
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-01-31,17,59,4,,19,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-02-01,14,57,1,,12,0
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-02-02,15,61,5,,12,1
+HN,Honduras,Comayagua Department,,,HN-CM,,ChIJSbb18uuMZY8RlStQqfgczeo,2022-02-03,13,55,5,,8,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-01,-33,-27,38,,-64,7
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-02,16,37,50,,-12,
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-03,23,50,17,,3,-3
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-04,19,58,2,,4,0
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-05,26,62,17,,5,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-06,18,55,1,,5,-1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-07,13,46,4,,12,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-08,6,39,1,,20,0
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-09,10,40,33,,12,
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-10,16,44,1,,15,-1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-11,19,44,15,,9,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-12,16,42,1,,10,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-13,12,46,-25,,7,-2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-14,12,45,-6,,14,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-15,12,47,14,,21,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-16,13,40,40,,6,
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-17,20,52,8,,17,-1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-18,16,50,2,,13,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-19,20,55,11,,10,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-20,19,57,16,,12,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-21,10,48,-9,,20,3
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-22,8,45,0,,25,3
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-23,2,29,23,,10,
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-24,20,49,13,,23,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-25,24,44,11,,20,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-26,21,49,6,,13,1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-27,14,51,5,,11,3
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-28,13,48,-8,,23,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-29,14,42,-5,,26,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-30,9,37,10,,11,
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-01-31,29,56,20,,26,-1
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-02-01,26,56,17,,19,2
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-02-02,29,50,8,,17,0
+HN,Honduras,Comayagua Department,Comayagua,,,,ChIJq4YVdGmPZY8RWaytGu9LW0Y,2022-02-03,23,55,0,,16,0
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-01,,,32,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-02,,,21,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-03,,,-2,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-04,,,0,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-05,,,-1,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-06,,,-6,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-07,,,9,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-08,,,1,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-09,,,16,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-10,,,-1,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-11,,,-3,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-12,,,-6,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-13,,,-8,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-14,,,-6,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-15,,,3,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-16,,,5,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-17,,,-11,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-18,,,-9,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-19,,,-11,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-20,,,-15,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-21,,,-7,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-22,,,-6,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-23,,,-5,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-24,,,-11,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-25,,,-11,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-26,,,-10,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-27,,,-11,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-28,,,-6,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-29,,,-16,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-30,,,-1,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-01-31,,,-13,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-02-01,,,-7,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-02-02,,,-13,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,ChIJEYwLgHWTZY8RZlhsiC2vIxg,2022-02-03,,,-12,,,
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-01,-54,-1,-20,,-73,4
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-02,11,,15,,-19,
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-03,6,76,-9,,-2,-4
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-04,-4,74,-14,,-2,-2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-05,-2,,-7,,0,-3
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-06,-7,72,-11,,-5,-2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-07,-14,53,-20,,5,-2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-08,-12,67,-13,,6,-2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-09,-15,,0,,-1,
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-10,-8,59,-15,,1,-3
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-11,-9,67,-13,,1,-1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-12,-4,73,-1,,0,0
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-13,-8,54,-17,,-2,0
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-14,-9,59,-15,,9,-1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-15,-6,74,2,,11,0
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-16,-7,,18,,-3,
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-17,-6,65,-22,,5,-1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-18,-6,76,-16,,3,1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-19,-2,76,-6,,3,1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-20,-6,56,-14,,1,1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-21,-9,58,-18,,9,1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-22,-13,56,-14,,6,0
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-23,-13,,-1,,2,
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-24,-10,55,-20,,5,-1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-25,-6,72,2,,0,0
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-26,-5,73,5,,-1,2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-27,-12,51,-10,,-3,2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-28,-15,51,-14,,10,0
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-29,-12,64,-10,,10,1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-30,-18,,-6,,5,
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-01-31,-4,68,-8,,9,-1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-02-01,-8,76,-10,,7,1
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-02-02,-5,,2,,9,2
+HN,Honduras,Comayagua Department,Siguatepeque,,,,ChIJaaBv3oPAZY8Rdvn97jz2Wq4,2022-02-03,-7,68,-7,,4,1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-01,-38,-31,-4,-76,-71,7
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-02,10,20,7,,-37,
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-03,10,28,-11,,-20,-2
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-04,5,24,-24,,-16,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-05,11,32,-15,,-13,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-06,6,28,-16,,-13,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-07,2,25,-17,,-10,0
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-08,1,25,-20,,-11,-2
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-09,-3,15,-5,,-25,
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-10,8,29,-16,,-10,-3
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-11,9,30,-22,,-10,0
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-12,8,32,-24,,-11,1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-13,5,22,-23,,-8,1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-14,7,19,-14,,-5,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-15,5,12,-10,,-7,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-16,-1,5,-8,,-26,
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-17,9,18,-17,,-9,-2
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-18,11,21,-16,,-6,0
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-19,13,28,-14,,-8,0
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-20,-3,20,-16,,-13,-8
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-21,7,18,-11,,-6,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-22,-1,12,-15,,-7,0
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-23,1,0,-13,,-25,
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-24,11,20,-8,,-6,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-25,17,21,8,,-6,-2
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-26,9,24,-9,,-10,1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-27,6,18,-14,,-7,2
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-28,6,18,-20,,-5,1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-29,-4,10,-31,,-10,2
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-30,-3,3,-22,,-28,
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-01-31,14,28,-3,,-7,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-02-01,16,26,-15,,-6,-1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-02-02,15,26,-13,,-9,1
+HN,Honduras,Copán Department,,,HN-CP,,ChIJ4egZ9VBVYY8RXhRp7fYacL0,2022-02-03,13,21,-14,,-8,1
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-01,,,-1,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-02,,,1,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-04,,,-1,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-05,,,-4,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-06,,,-6,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-07,,,-8,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-08,,,-12,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-09,,,-1,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-11,,,-3,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-12,,,-2,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-13,,,-15,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-14,,,-4,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-15,,,-13,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-16,,,-19,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-18,,,-13,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-19,,,-9,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-20,,,-20,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-21,,,-13,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-22,,,-24,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-23,,,-16,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-25,,,-1,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-26,,,-10,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-27,,,-5,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-28,,,-19,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-29,,,-26,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-01-30,,,-21,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-02-01,,,-15,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-02-02,,,-4,,,
+HN,Honduras,Copán Department,Corquiín,,,,ChIJ16uaum6JY48RHmGNzcUk9tc,2022-02-03,,,-11,,,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-01,-45,,-40,,-74,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-02,,,,,-39,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-03,,,,,-24,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-04,,,,,-22,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-05,,,,,-15,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-06,,,,,-15,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-07,,,,,-14,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-08,,,-55,,-13,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-10,,,,,-13,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-11,,,,,-19,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-12,,,,,-16,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-13,,,,,-2,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-14,,,,,-7,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-15,,,-35,,-19,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-17,,,,,-4,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-18,,,,,-9,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-19,,,,,-12,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-20,,,,,-19,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-21,,,,,-13,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-22,,,-46,,-15,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-24,,,,,-6,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-25,,,,,-9,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-26,,,,,-16,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-27,,,,,-8,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-28,,,,,-5,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-29,,,-48,,-19,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-01-31,,,,,-8,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-02-01,,,,,-8,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-02-02,,,,,-7,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,ChIJxY-nVlipZo8RzjcdiDmjQUo,2022-02-03,,,,,-6,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-01,-53,,8,,-74,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-02,-1,,19,,-32,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-03,3,41,,,-13,2
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-04,-3,28,-22,,-5,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-05,4,36,-4,,-6,2
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-06,0,33,14,,-1,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-07,-5,31,5,,0,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-08,-2,,-3,,-5,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-09,-15,,17,,-30,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-10,-1,32,,,-3,2
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-11,3,41,-3,,0,4
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-12,6,34,-23,,-5,4
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-13,2,36,-5,,0,6
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-14,7,38,13,,1,2
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-15,2,,46,,1,2
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-16,-8,,27,,-25,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-17,1,31,,,-4,1
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-18,3,35,-8,,4,4
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-19,5,42,-11,,-5,5
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-20,-2,43,-2,,-4,-3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-21,2,29,4,,0,4
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-22,-3,,-5,,1,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-23,-4,,-3,,-27,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-24,-1,36,,,-1,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-25,11,34,,,1,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-26,3,34,10,,-4,5
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-27,0,35,-9,,1,6
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-28,2,31,-7,,2,5
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-29,-7,,-33,,-1,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-30,-12,,-17,,-26,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-01-31,8,48,,,1,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-02-01,5,42,-9,,0,3
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-02-02,4,37,-14,,-6,6
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,ChIJHY9zStj3Y48RD1Mk2JC6R7w,2022-02-03,5,35,4,,-2,5
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-01,-54,-36,-19,-57,-77,10
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-02,-7,20,12,15,-20,-5
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-03,5,44,-8,24,-9,0
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-04,1,38,-12,11,-5,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-05,5,45,-3,18,-1,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-06,3,41,-4,15,1,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-07,2,39,-1,10,4,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-08,-1,33,-10,6,10,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-09,0,31,15,10,8,-1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-10,6,41,-6,20,6,-1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-11,5,38,-5,13,4,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-12,1,38,-7,11,3,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-13,-3,30,-19,4,2,3
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-14,5,41,0,12,7,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-15,8,45,0,14,13,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-16,6,41,16,8,8,-1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-17,7,44,-4,16,6,1
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-18,7,45,0,9,5,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-19,5,43,3,11,4,3
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-20,5,41,-1,10,3,3
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-21,3,41,3,6,6,3
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-22,-1,36,-3,1,12,3
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-23,-1,28,10,-2,9,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-24,5,40,-5,9,5,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-25,15,43,8,6,3,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-26,1,41,-2,5,0,4
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-27,-1,30,-8,0,0,5
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-28,3,41,0,5,4,4
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-29,-7,26,-21,-7,10,6
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-30,-2,33,-2,-2,6,4
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-01-31,12,51,-1,14,6,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-02-01,14,53,8,14,4,2
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-02-02,11,51,7,12,4,3
+HN,Honduras,Cortés Department,,,HN-CR,,ChIJB67f06NCZo8RHoXTqsLzoyk,2022-02-03,7,42,0,6,3,3
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-01,-36,-26,-44,,-81,8
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-02,23,41,-2,,-42,-6
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-03,,62,,,-16,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-04,,58,,,-6,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-05,,60,,,-3,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-06,,59,21,,1,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-07,34,45,13,,4,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-08,29,45,16,,3,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-09,41,53,18,,-2,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-10,,61,,,5,-2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-11,,54,,,7,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-12,,49,,,6,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-13,,33,7,,8,2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-14,40,52,23,,9,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-15,43,58,37,,11,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-16,52,64,39,,-3,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-17,,64,,,9,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-18,,64,,,10,1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-19,,56,,,6,2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-20,,59,,,9,2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-21,34,50,50,,8,1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-22,31,44,44,,8,3
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-23,39,54,37,,-3,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-24,,67,,,5,-1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-25,,62,,,8,1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-26,,55,,,4,2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-27,,44,,,6,4
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-28,36,58,42,,9,2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-29,14,38,17,,7,5
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-30,40,62,36,,-2,2
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-01-31,,76,,,8,1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-02-01,,85,,,8,0
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-02-02,,65,,,8,1
+HN,Honduras,Cortés Department,Choloma,,,,ChIJAXdHfDNJZo8Re8YQtnjoxiI,2022-02-03,,55,,,7,1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-01,,,-54,,-81,9
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-02,,,-15,,-38,
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-03,,,-28,,-21,1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-04,,,-34,,-17,3
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-05,,,-14,,-11,0
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-06,,,-18,,-10,-1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-07,,,-26,,-6,-1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-08,,,-24,,-8,0
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-09,,,-1,,-13,
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-10,,,-27,,-11,-1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-11,,,-23,,-9,1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-12,,,-9,,-10,2
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-13,,,-22,,-9,1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-14,,,-20,,-4,1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-15,,,-15,,-7,0
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-16,,,0,,-18,
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-17,,,-19,,-9,2
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-18,,,-18,,-11,-1
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-19,,,3,,-8,3
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-20,,,-11,,-13,4
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-21,,,-16,,-6,3
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-22,,,-17,,-10,4
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-23,,,-2,,-20,
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-24,,,-16,,-8,3
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-25,,,22,,-11,2
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-26,,,-9,,-12,2
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-27,,,-5,,-14,5
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-28,,,-16,,-9,5
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-29,,,-27,,-10,4
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-30,,,0,,-17,
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-01-31,,,-7,,-11,4
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-02-01,,,-5,,-11,3
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-02-02,,,3,,-9,4
+HN,Honduras,Cortés Department,La Lima,,,,ChIJc8M0WzpHZo8R6OjxKQ6rT8c,2022-02-03,,,1,,-11,3
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-01,,,,,-62,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-03,,,,,-24,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-04,,,,,-22,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-05,,,,,-16,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-06,,,,,-22,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-07,,,,,-16,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-10,,,,,-9,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-11,,,,,-5,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-12,,,,,-20,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-13,,,,,-15,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-14,,,,,-10,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-17,,,,,-7,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-18,,,,,-7,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-19,,,,,-7,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-20,,,,,-4,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-21,,,,,0,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-24,,,,,-5,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-25,,,,,-7,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-26,,,,,-12,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-27,,,,,-13,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-28,,,,,-11,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-29,,,,,-11,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-01-31,,,,,-8,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-02-01,,,,,-7,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-02-02,,,,,-7,
+HN,Honduras,Cortés Department,Omoa,,,,ChIJCTtjhiL5Zo8RwbAKSVPASrw,2022-02-03,,,,,-13,
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-01,-14,5,70,-34,-69,3
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-02,11,,58,,-21,
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-03,2,49,11,2,-8,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-04,-9,40,3,-6,-3,-2
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-05,6,55,18,5,1,-2
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-06,5,44,13,4,1,-2
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-07,-1,46,9,10,11,-3
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-08,-1,34,-1,22,11,-3
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-09,7,,30,,3,
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-10,2,44,20,22,11,-4
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-11,-6,27,-4,22,4,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-12,3,44,-2,18,7,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-13,-15,29,-18,10,1,3
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-14,0,45,1,8,17,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-15,8,46,-2,14,17,-3
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-16,8,,2,,7,
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-17,1,46,12,26,14,-2
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-18,3,47,-2,20,13,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-19,11,47,7,9,12,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-20,3,42,1,23,10,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-21,2,46,-5,9,19,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-22,0,34,-7,3,18,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-23,11,,-1,-9,7,
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-24,4,46,2,22,15,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-25,17,48,-2,17,12,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-26,5,43,-2,16,10,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-27,-1,40,-3,11,10,1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-28,6,42,-6,12,17,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-29,-16,15,-36,-6,8,5
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-30,0,,-17,,0,
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-01-31,11,55,5,7,14,-2
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-02-01,11,56,9,12,11,-1
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-02-02,17,67,3,26,11,0
+HN,Honduras,Cortés Department,Puerto Cortés,,,,ChIJo5EdJUU1Zo8RrIuHE1Sji2c,2022-02-03,9,56,-5,18,10,-3
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-02,,,,,-56,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-03,,,,,-25,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-04,,,,,-16,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-05,,,,,-15,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-06,,,,,-13,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-07,,,,,-7,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-08,,,,,-17,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-09,,,,,-37,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-10,,,,,-14,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-11,,,,,-10,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-12,,,,,-16,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-13,,,,,-10,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-14,,,,,-10,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-15,,,,,-12,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-16,,,,,-33,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-17,,,,,-13,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-18,,,,,-7,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-19,,,,,-12,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-20,,,,,-6,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-21,,,,,-4,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-22,,,,,-9,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-23,,,,,-34,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-24,,,,,-8,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-25,,,,,-4,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-26,,,,,-8,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-27,,,,,-4,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-28,,,,,-5,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-29,,,,,-12,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-30,,,,,-29,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-01-31,,,,,-9,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-02-01,,,,,-9,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-02-02,,,,,-13,
+HN,Honduras,Cortés Department,San Manuel,,,,ChIJz--W8IpqZo8Rk6ZDgGSaMFs,2022-02-03,,,,,-9,
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-01,-65,-46,-45,-62,-79,12
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-02,-12,13,-16,9,-11,-5
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-03,7,43,-16,23,-5,1
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-04,4,36,-20,10,1,3
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-05,9,43,-11,16,0,3
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-06,4,36,-9,12,2,3
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-07,6,42,-6,4,9,3
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-08,-3,33,-14,3,16,2
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-09,0,28,4,8,15,1
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-10,8,40,-13,17,10,1
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-11,8,37,-10,10,10,2
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-12,5,38,-11,7,4,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-13,-1,28,-20,1,4,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-14,9,44,-5,7,13,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-15,5,45,-4,10,17,2
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-16,8,41,9,7,13,1
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-17,10,43,-11,13,9,2
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-18,9,43,-4,4,9,3
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-19,9,43,-3,8,3,5
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-20,6,38,-3,6,4,5
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-21,5,44,-4,-1,10,6
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-22,-3,36,-7,-2,16,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-23,-1,27,5,-5,14,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-24,6,38,-14,4,7,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-25,17,41,-4,2,7,3
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-26,3,40,-6,2,-1,6
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-27,0,25,-9,-5,0,7
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-28,5,43,-6,-1,8,7
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-29,-8,29,-19,-9,14,7
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-30,1,35,-5,-3,12,6
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-01-31,14,50,-6,11,9,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-02-01,16,51,2,11,9,4
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-02-02,14,49,4,9,3,5
+HN,Honduras,Cortés Department,San Pedro Sula,,,,ChIJ83lINNZYZo8Rsw4kHXOofjg,2022-02-03,7,37,1,2,4,5
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-01,35,,,,-53,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-02,51,,,,-5,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-03,,,,,-9,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-04,,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-05,,,,,1,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-06,16,,,,-7,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-07,8,,,,1,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-08,13,,-8,,9,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-09,9,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-10,,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-11,,,,,1,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-12,5,,,,-1,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-13,3,,,,-4,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-14,2,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-15,8,,,,1,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-16,8,,,,21,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-17,6,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-18,,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-19,,,,,0,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-20,5,,,,-3,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-21,10,,,,6,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-22,2,,,,13,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-23,1,,,,21,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-24,,,,,2,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-25,,,,,6,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-26,,,,,-1,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-27,-1,,,,-10,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-28,3,,,,-4,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-29,-5,,-30,,7,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-30,-16,,,,9,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-01-31,,,,,3,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-02-01,,,,,6,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-02-02,,,,,5,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,ChIJ00LpFD7ZZY8RfGiLO6Vpvaw,2022-02-03,11,,,,-1,
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-01,-46,-41,-8,,-81,9
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-02,3,,,,-42,-6
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-03,6,56,,,-8,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-04,5,48,,,-4,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-05,10,64,,,0,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-06,7,63,,,2,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-07,5,44,,,4,-2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-08,17,50,11,,-2,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-09,16,,,,-16,-2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-10,11,57,,,6,-3
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-11,10,51,,,3,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-12,6,48,,,2,0
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-13,6,57,,,2,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-14,12,47,,,5,0
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-15,25,68,26,,6,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-16,21,,,,-12,-2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-17,9,56,,,6,-1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-18,22,60,,,7,0
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-19,19,57,,,6,2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-20,24,63,,,4,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-21,20,48,,,5,-2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-22,23,53,28,,0,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-23,22,,,,-11,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-24,19,56,,,7,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-25,35,56,,,3,2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-26,21,64,,,2,2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-27,14,53,,,-1,3
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-28,17,48,,,6,2
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-29,13,41,0,,0,4
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-30,20,,,,-18,3
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-01-31,28,70,,,8,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-02-01,35,72,,,6,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-02-02,32,74,,,4,1
+HN,Honduras,Cortés Department,Villanueva,,,,ChIJMThyAGRmZo8RaGrwLzy6Cfg,2022-02-03,24,65,,,3,2
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-01,-19,-5,11,,-55,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-02,,,27,,-16,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-03,,,18,,0,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-04,,,16,,5,-1
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-05,,,12,,5,0
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-06,,,12,,5,1
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-07,18,,7,,21,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-08,12,,-3,,19,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-09,,,0,,2,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-10,,,-1,,15,-1
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-11,,,1,,12,0
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-12,,,-1,,10,2
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-13,,,7,,11,0
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-14,,,12,,25,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-15,14,,5,,21,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-16,,,12,,11,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-17,,,2,,17,0
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-18,,,4,,20,-1
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-19,,,0,,13,3
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-20,,,6,,15,1
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-21,,,3,,25,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-22,14,,-3,,25,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-23,,,-2,,3,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-24,,,-2,,19,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-25,,,13,,21,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-26,,,3,,15,2
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-27,,,0,,12,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-28,,,-1,,27,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-29,15,,-5,,19,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-30,,,0,,0,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-01-31,,,5,,24,1
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-02-01,,,6,,20,
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-02-02,,,10,,17,2
+HN,Honduras,El Paraíso Department,,,HN-EP,,ChIJdcDDwtDGbY8Rsjky_IwKm7w,2022-02-03,,,8,,17,2
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-01,-31,,-31,,-61,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-02,15,,7,,-24,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-03,18,,6,,-1,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-04,20,74,12,,4,-1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-05,24,79,6,,1,-1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-06,22,86,7,,5,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-07,11,74,-2,,16,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-08,13,,-12,,18,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-09,6,,-6,,-2,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-10,15,84,-2,,16,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-11,17,69,-4,,12,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-12,18,60,-9,,8,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-13,19,73,4,,10,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-14,14,70,0,,20,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-15,10,,-7,,20,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-16,13,,4,,1,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-17,19,88,-3,,21,0
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-18,18,67,-2,,17,-1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-19,25,67,-3,,9,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-20,27,69,7,,13,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-21,15,65,-5,,22,2
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-22,14,,-8,,23,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-23,15,,-3,,0,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-24,15,78,-7,,19,3
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-25,21,58,-1,,19,2
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-26,21,56,1,,12,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-27,24,55,2,,13,3
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-28,14,60,-3,,27,3
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-29,17,,-14,,23,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-30,18,,-3,,-5,
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-01-31,23,79,2,,27,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-02-01,21,63,5,,18,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-02-02,25,75,8,,16,1
+HN,Honduras,El Paraíso Department,Danlí,,,,ChIJv7mSRNdxbo8RtSHQoQ6cEak,2022-02-03,26,77,10,,16,2
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-01,,,,,-46,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-03,,,,,-2,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-04,,,,,-6,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-05,,,,,1,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-06,,,,,8,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-07,,,,,15,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-10,,,,,10,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-11,,,,,16,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-12,,,,,1,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-13,,,,,9,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-14,,,,,19,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-17,,,,,9,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-18,,,,,16,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-19,,,,,19,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-20,,,,,16,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-21,,,,,14,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-24,,,,,15,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-25,,,,,20,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-26,,,,,21,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-27,,,,,14,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-28,,,,,15,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-01-31,,,,,14,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-02-01,,,,,18,
+HN,Honduras,El Paraíso Department,El Paraiso,,,,ChIJHfOcVq8Vbo8R2H7zsR3zuPU,2022-02-02,,,,,18,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-01,,,8,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-02,,,0,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-03,,,-7,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-04,,,-10,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-05,,,-18,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-06,,,-10,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-07,,,-17,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-08,,,-18,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-09,,,-18,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-10,,,-20,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-11,,,-19,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-12,,,-25,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-13,,,-21,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-14,,,-17,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-15,,,-22,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-16,,,-14,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-17,,,-28,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-18,,,-22,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-19,,,-22,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-20,,,-19,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-21,,,-23,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-22,,,-22,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-23,,,-23,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-24,,,-27,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-25,,,-22,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-26,,,-30,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-27,,,-26,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-28,,,-31,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-29,,,-31,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-30,,,-24,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-01-31,,,-27,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-02-01,,,-27,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-02-02,,,-25,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,ChIJGRx_EPjQb48RssKUvLb_m98,2022-02-03,,,-21,,,
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-01,-55,-46,-6,-84,-70,10
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-02,-9,6,16,-70,-1,-1
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-03,1,32,-4,-68,-19,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-04,1,36,0,-66,-11,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-05,1,35,-4,-64,-10,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-06,-1,32,-3,-45,-10,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-07,-4,28,-7,-24,-7,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-08,-8,18,-7,-25,7,5
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-09,-11,12,-1,-29,14,4
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-10,-4,26,-7,-28,-6,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-11,-3,30,-4,-25,-6,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-12,-4,26,-7,-23,-7,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-13,-5,25,-10,-22,-8,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-14,-1,31,-7,-19,-4,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-15,1,28,-2,-17,9,4
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-16,-5,21,5,-27,14,4
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-17,0,32,-4,-26,-6,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-18,-1,34,0,-23,-6,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-19,-2,30,-1,-26,-7,8
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-20,-2,30,-1,-24,-7,8
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-21,-3,29,-6,-22,-4,8
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-22,-2,23,4,-26,10,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-23,-10,13,7,-34,18,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-24,-2,28,4,-32,-5,8
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-25,6,33,9,-21,-6,8
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-26,3,37,2,-19,-8,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-27,-26,-3,-22,-45,-50,20
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-28,2,32,2,-21,-3,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-29,3,28,1,-17,11,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-30,-4,19,0,-31,17,5
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-01-31,7,36,5,-21,-2,6
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-02-01,5,38,7,-21,-2,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-02-02,6,38,9,-18,-4,7
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,ChIJca634Kbmbo8Rg8NsIfH6LBY,2022-02-03,1,34,4,-18,-7,9
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-01,-61,-51,-26,-84,-70,11
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-02,-14,5,-2,-70,-2,-1
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-03,-2,31,-9,-68,-19,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-04,0,40,-7,-66,-12,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-05,0,37,-9,-64,-12,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-06,0,32,-10,-45,-12,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-07,-5,29,-13,-23,-6,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-08,-10,13,-13,-25,10,5
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-09,-12,12,-9,-29,14,4
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-10,-5,25,-9,-28,-7,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-11,-3,33,-11,-24,-7,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-12,-4,28,-12,-22,-10,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-13,-4,25,-13,-21,-10,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-14,-2,32,-11,-18,-3,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-15,-1,22,-7,-16,13,4
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-16,-6,21,-7,-27,14,3
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-17,-2,31,-8,-26,-6,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-18,-1,37,-6,-23,-7,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-19,-2,31,-4,-26,-9,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-20,-1,29,-7,-24,-9,9
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-21,-5,29,-9,-21,-4,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-22,-4,17,0,-26,14,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-23,-11,13,1,-34,17,5
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-24,-3,27,0,-32,-5,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-25,5,36,-1,-21,-7,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-26,3,39,0,-18,-10,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-27,-26,-6,-30,-45,-52,21
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-28,1,32,0,-21,-2,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-29,1,22,-2,-16,15,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-30,-4,19,-6,-31,17,5
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-01-31,6,35,5,-20,-2,6
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-02-01,5,42,4,-20,-4,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-02-02,6,40,6,-17,-6,7
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,ChIJ0SNaUoqYb48RklWuQ1MsTFw,2022-02-03,3,33,0,-17,-9,9
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-03,,,,,-26,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-04,,,,,-17,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-05,,,,,-17,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-06,,,,,-19,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-07,,,,,-14,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-10,,,,,-11,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-11,,,,,-10,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-12,,,,,-14,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-13,,,,,-11,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-14,,,,,-19,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-17,,,,,-8,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-18,,,,,-16,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-19,,,,,-12,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-20,,,,,-14,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-21,,,,,-8,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-24,,,,,-10,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-25,,,,,-10,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-26,,,,,-12,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-27,,,,,-57,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-28,,,,,-14,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-01-31,,,,,-8,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-02-01,,,,,-10,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-02-02,,,,,-3,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,ChIJpXuTzKmlb48R5LAedBZf12w,2022-02-03,,,,,-16,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-03,,,,,-14,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-04,,,,,-9,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-05,,,,,-8,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-06,,,,,-3,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-07,,,,,-3,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-10,,,,,0,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-11,,,,,-6,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-12,,,,,-4,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-13,,,,,0,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-14,,,,,-1,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-17,,,,,5,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-18,,,,,-3,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-19,,,,,2,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-20,,,,,1,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-21,,,,,9,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-24,,,,,3,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-25,,,,,-5,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-26,,,,,-5,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-27,,,,,-48,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-28,,,,,3,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-01-31,,,,,7,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-02-01,,,,,0,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-02-02,,,,,1,
+HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,ChIJp8lIT6-ub48R1uOvEOUFif0,2022-02-03,,,,,-5,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-01,,,-16,,-67,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-02,,,2,,-23,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-03,,,-23,,-8,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-04,,,,,-4,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-05,,,-24,,-1,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-06,,,-17,,-6,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-07,,,-18,,4,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-08,,,-29,,-4,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-09,,,-23,,-8,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-10,,,-31,,5,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-11,,,-19,,8,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-12,,,-19,,3,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-13,,,-32,,-1,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-14,,,-13,,6,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-15,,,-15,,0,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-16,,,-17,,-8,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-17,,,-33,,5,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-18,,,-15,,15,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-19,,,-33,,9,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-20,,,-25,,2,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-21,,,-28,,11,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-22,,,-31,,4,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-23,,,-29,,-4,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-24,,,-45,,10,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-25,,,-21,,12,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-26,,,-39,,5,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-27,,,-39,,-1,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-28,,,-41,,8,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-29,,,-45,,11,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-30,,,-33,,-10,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-01-31,,,-35,,13,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-02-01,,,-35,,8,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-02-02,,,-43,,5,
+HN,Honduras,Intibucá Department,,,HN-IN,,ChIJE5p0jrlVZI8RyKek-1FPn_I,2022-02-03,,,-41,,7,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-01,,,-39,,-72,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-02,,,-16,,-40,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-03,,,-46,,-5,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-04,,,-40,,-2,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-05,,,-43,,-1,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-06,,,-41,,-3,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-07,,,-41,,3,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-08,,,-51,,4,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-09,,,-40,,-20,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-10,,,-54,,10,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-11,,,-52,,8,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-12,,,-46,,1,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-13,,,-57,,6,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-14,,,-43,,9,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-15,,,-47,,9,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-16,,,-49,-22,-20,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-17,,,-58,,11,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-18,,,-50,,15,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-19,,,-60,,1,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-20,,,-55,,7,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-21,,,-61,,11,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-22,,,-54,,11,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-23,,,-53,-28,-13,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-24,,,-68,,15,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-25,,,-59,,10,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-26,,,-65,,2,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-27,,,-63,,10,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-28,,,-64,,12,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-29,,,-67,,14,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-30,,,-65,-27,-28,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-01-31,,,-63,,16,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-02-01,,,-57,,13,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-02-02,,,-65,,7,
+HN,Honduras,Intibucá Department,Intibucá,,,,ChIJ98_mCXitZY8R_YgzAYXzJVE,2022-02-03,,,-62,,11,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-01,,,,-73,-49,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-03,,,,-63,-15,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-04,,,,-63,-11,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-05,,,,-60,-11,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-06,,,,-49,-16,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-07,,,,-56,-4,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-08,,,,-47,5,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-09,,,,-54,,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-10,,,,-57,-4,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-11,,,,-59,-5,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-12,,,,-56,-9,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-13,,,,-54,-7,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-14,,,,-59,4,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-15,,,,-59,1,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-16,,,,-46,,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-17,,,,-57,-8,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-18,,,,-63,-2,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-19,,,,-68,-3,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-20,,,,-65,-1,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-21,,,,-67,6,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-22,,,,-60,8,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-23,,,,-59,,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-24,,,,-63,-1,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-25,,,,-60,0,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-26,,,,-60,-1,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-27,,,,-68,-8,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-28,,,,-54,9,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-29,,,,-56,10,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-30,,,,-56,,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-01-31,,,,-59,-2,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-02-01,,,,-54,5,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-02-02,,,,-58,-6,
+HN,Honduras,La Paz Department,,,HN-LP,,ChIJAwLJpIINZY8Rrng_HCPfkyU,2022-02-03,,,,-59,-3,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-01,,,,,-53,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-03,,,,,-16,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-04,,,,,-13,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-05,,,,,-7,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-06,,,,,-12,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-07,,,,,-2,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-08,,,,,0,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-10,,,,,-2,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-11,,,,,-11,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-12,,,,,-8,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-13,,,,,-4,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-14,,,,,6,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-15,,,,,5,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-17,,,,,3,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-18,,,,,-5,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-19,,,,,3,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-20,,,,,2,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-21,,,,,6,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-22,,,,,-6,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-24,,,,,4,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-25,,,,,-6,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-26,,,,,6,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-27,,,,,-8,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-28,,,,,14,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-29,,,,,4,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-01-31,,,,,4,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-02-01,,,,,3,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-02-02,,,,,2,
+HN,Honduras,La Paz Department,La Paz,,,,ChIJWVYKC7CdZY8Rg6jeSCWgAAk,2022-02-03,,,,,1,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-01,,,,,-67,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-02,,,,,-37,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-03,,,,,-35,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-04,,,,,-29,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-05,,,,,-33,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-06,,,,,-27,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-07,,,,,-23,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-08,,,2,,-22,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-09,,,-1,,,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-10,,,,,-24,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-11,,,,,-25,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-12,,,,,-28,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-13,,,,,-30,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-14,,,,,-29,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-15,,,1,,-23,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-16,,,,,-31,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-17,,,,,-29,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-18,,,,,-27,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-19,,,,,-28,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-20,,,,,-28,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-21,,,,,-23,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-22,,,3,,-17,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-24,,,,,-28,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-25,,,,,-27,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-26,,,,,-32,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-27,,,,,-31,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-28,,,,,-20,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-29,,,-11,,-24,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-30,,,-8,,,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-01-31,,,,,-23,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-02-01,,,,,-19,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-02-02,,,,,-28,
+HN,Honduras,Lempira Department,,,HN-LE,,ChIJr6cWwx1lZI8RrnnmMDn_TO4,2022-02-03,,,,,-32,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-01,,,45,,-63,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-02,,,,,-35,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-03,,,-12,,-33,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-04,,,-18,,-27,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-05,,,-16,,-29,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-06,,,-19,,-23,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-07,,,-16,,-14,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-08,,,-13,,-24,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-09,,,-12,,,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-10,,,-22,,-27,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-11,,,-24,,-23,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-12,,,-22,,-23,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-13,,,-19,,-29,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-14,,,-21,,-27,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-15,,,-18,,-21,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-16,,,-5,,,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-17,,,-29,,-27,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-18,,,-11,,-25,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-19,,,-10,,-29,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-20,,,1,,-25,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-21,,,-10,,-16,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-22,,,-16,,-27,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-23,,,-3,,,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-24,,,-14,,-28,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-25,,,,,-22,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-26,,,-18,,-30,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-27,,,-12,,-30,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-28,,,-14,,-21,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-29,,,-20,,-24,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-30,,,-18,,,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-01-31,,,-11,,-24,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-02-01,,,-9,,-21,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-02-02,,,-12,,-23,
+HN,Honduras,Lempira Department,Gracias,,,,ChIJ6z0ma2drZI8RJWEyvb72ECo,2022-02-03,,,-24,,-24,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-01,,,-37,,-63,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-02,,,-18,,-28,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-03,,,-41,,-21,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-04,,,-39,,-18,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-05,,,-40,,-14,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-06,,,-35,,-16,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-07,,,-39,,-8,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-08,,,-37,,-5,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-09,,,-19,,-3,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-10,,,-45,,-12,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-11,,,-39,,-11,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-12,,,-42,,-14,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-13,,,-38,,-19,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-14,,,-34,,-5,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-15,,,-40,,-7,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-16,,,-26,,0,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-17,,,-41,,-12,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-18,,,-30,,-8,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-19,,,-34,,-12,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-20,,,-44,,-20,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-21,,,-37,,-5,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-22,,,-29,,-6,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-23,,,-18,,-3,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-24,,,-37,,-12,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-25,,,-6,,-1,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-26,,,-37,,-7,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-27,,,-36,,-12,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-28,,,-34,,2,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-29,,,-33,,1,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-30,,,-21,,0,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-01-31,,,-36,,-8,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-02-01,,,-33,,-2,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-02-02,,,-32,,-6,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,ChIJS_desQ2XY48Rgn-dyLNHPeU,2022-02-03,,,-30,,-13,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-01,,,-47,,-59,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-02,,,-29,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-03,,,-49,,-9,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-04,,,-43,,-11,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-05,,,-46,,1,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-06,,,-41,,0,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-07,,,-40,,2,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-08,,,-41,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-09,,,-27,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-10,,,-51,,4,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-11,,,-39,,-3,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-12,,,-44,,2,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-13,,,-44,,-11,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-14,,,-31,,5,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-15,,,-40,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-16,,,-30,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-17,,,-43,,3,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-18,,,-32,,-9,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-19,,,-36,,-10,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-20,,,-54,,-14,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-21,,,-34,,2,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-22,,,-34,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-23,,,-27,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-24,,,-39,,3,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-25,,,-8,,5,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-26,,,-34,,6,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-27,,,-43,,3,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-28,,,-32,,14,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-29,,,-34,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-30,,,-26,,,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-01-31,,,-37,,4,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-02-01,,,-34,,11,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-02-02,,,-36,,12,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,ChIJrywth4GlY48RwTmt-RqnLoA,2022-02-03,,,-32,,8,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-01,-35,-33,9,,-68,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-02,2,4,6,,-33,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-03,15,10,-19,,-21,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-04,10,15,-17,,-18,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-05,11,18,-15,,-15,-2
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-06,6,10,-18,,-14,-2
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-07,10,13,-21,,-11,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-08,0,9,-25,-28,-10,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-09,-11,-8,-23,,-25,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-10,8,14,-32,,-10,-2
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-11,7,9,-20,,-12,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-12,9,17,-22,,-11,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-13,-1,2,-25,,-17,-10
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-14,12,18,-23,,-8,-3
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-15,6,12,-25,,-5,-2
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-16,-3,7,-17,,-20,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-17,16,17,-25,,-5,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-18,10,18,-18,,-9,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-19,13,21,-19,,-9,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-20,8,17,-20,,-6,1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-21,12,19,-20,,-6,1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-22,1,12,-23,-19,-6,0
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-23,-9,7,-24,,-19,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-24,12,12,-23,-16,-5,0
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-25,20,15,0,,-8,-2
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-26,17,25,-21,,-8,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-27,2,12,-27,,-9,1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-28,11,15,-23,,-6,0
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-29,0,10,-28,-19,-5,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-30,-5,14,-17,,-20,
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-01-31,11,17,-26,-20,-5,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-02-01,10,15,-13,,-8,-1
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-02-02,13,26,-14,,-7,-2
+HN,Honduras,Olancho Department,,,HN-OL,,ChIJo_hZNvINbI8RLfmK8Wc0G7I,2022-02-03,9,21,-12,,-4,-1
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-01,,,,,-76,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-02,,,,,-40,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-03,,13,,,-33,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-04,,,,,-30,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-05,,,,,-24,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-06,,,,,-29,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-07,,,-19,,-27,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-08,,,-15,,-31,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-09,,,-8,,-36,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-10,,15,,,-29,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-11,,,,,-23,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-12,,,,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-13,,,,,-31,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-14,,,-20,,-22,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-15,,,-7,,-23,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-16,,,,,-31,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-17,,,,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-18,,,,,-23,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-19,,,,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-20,,,,,-16,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-21,,,-8,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-22,,,-13,,-24,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-23,,,-11,,-29,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-24,,,,,-20,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-25,,,,,-24,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-26,,,,,-16,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-27,,,,,-18,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-28,,,-19,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-29,,,-20,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-30,,,,,-28,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-01-31,,,,,-22,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-02-01,,,,,-22,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-02-02,,,,,-19,
+HN,Honduras,Olancho Department,Catacamas,,,,ChIJ3x7zg3pfbI8RiS0Evq9XJCQ,2022-02-03,,,,,-15,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-01,-44,-49,,,-71,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-02,-1,,,,-18,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-03,9,2,,0,-2,-3
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-04,-1,-1,,2,2,-3
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-05,2,5,,0,3,-2
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-06,-3,-4,,-9,4,1
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-07,4,0,,-8,12,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-08,-4,-3,,-19,15,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-09,-14,,,,-4,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-10,4,4,,2,9,0
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-11,0,-1,,-9,6,-2
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-12,-2,10,,3,8,-1
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-13,-5,-4,,-8,3,-9
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-14,6,9,,-4,17,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-15,1,3,,-2,14,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-16,-6,,,,-2,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-17,12,12,,10,12,0
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-18,2,-1,,-2,9,0
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-19,4,11,,-5,10,2
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-20,-3,2,,-17,12,3
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-21,5,7,,-10,17,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-22,-4,6,,-13,20,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-23,-13,,,-50,5,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-24,7,3,,-10,15,3
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-25,7,4,,-11,10,1
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-26,9,21,,-7,11,1
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-27,-10,5,,-25,8,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-28,5,6,,-10,17,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-29,-7,1,,-10,16,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-30,-10,,,-39,4,
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-01-31,6,10,,-11,13,0
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-02-01,-1,1,,-16,10,1
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-02-02,3,19,,-2,14,2
+HN,Honduras,Olancho Department,Juticalpa,,,,ChIJYQiFZyacbo8R6bHgrbo-ftE,2022-02-03,-1,13,,1,14,3
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-01,0,,22,,-61,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-02,,,23,,-36,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-03,,,17,,-23,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-04,,,11,,-19,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-05,,,24,,-16,-4
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-06,,,20,,-17,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-07,9,,12,,-11,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-08,5,,7,,-11,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-09,,,4,,-18,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-10,,,8,,-14,-3
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-11,,,20,,-17,-4
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-12,,,10,,-15,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-13,,,12,,-14,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-14,6,,15,,-8,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-15,7,,11,,-8,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-16,0,,9,,-21,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-17,,,8,,-12,-2
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-18,,,23,,-11,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-19,,,7,,-12,-3
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-20,,,4,,-9,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-21,15,,0,,-10,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-22,6,,2,,-12,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-23,,,-3,,-20,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-24,,,2,,-14,-2
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-25,,,44,,-11,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-26,,,23,,-13,-3
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-27,,,16,,-15,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-28,4,,12,,-8,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-29,-6,,-2,,-13,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-30,-10,,-5,,-18,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-01-31,,,20,,-10,-1
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-02-01,,,34,,-11,-6
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-02-02,,,25,,-8,-3
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,ChIJqT9UvZMDZI8RztuKzj6FZzM,2022-02-03,,,20,,-11,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-01,,,-7,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-02,,,-6,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-03,,,-11,,-16,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-04,,,-14,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-05,,,-8,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-06,,,-8,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-07,,,-6,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-08,,,-15,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-09,,,-12,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-10,,,-17,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-11,,,-5,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-12,,,-8,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-13,,,-20,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-14,,,-7,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-15,,,-23,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-16,,,-8,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-17,,,-19,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-18,,,-6,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-19,,,-17,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-20,,,-18,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-21,,,-15,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-22,,,-19,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-23,,,-15,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-24,,,-18,,-5,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-25,,,-17,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-26,,,-16,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-27,,,-27,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-28,,,-17,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-29,,,-25,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-30,,,-24,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-01-31,,,-14,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-02-01,,,-11,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-02-02,,,-14,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,ChIJN2at7TbtZo8RqRKitld7Dxk,2022-02-03,,,-23,,,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-01,-59,,,,-71,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-03,,,,,-21,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-04,,,,,-12,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-05,,,,,-16,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-06,,,,,-12,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-07,,,,,-7,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-08,,,,,-2,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-10,,,,,-9,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-11,,,,,-12,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-12,,,,,-13,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-13,,,,,-6,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-14,,,,,0,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-15,,,,,5,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-17,,,,,0,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-18,,,,,5,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-19,,,,,-8,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-20,,,,,6,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-21,,,,,6,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-22,,,,,5,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-24,,,,,-6,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-25,,,,,-5,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-26,,,,,-10,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-27,,,,,1,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-28,,,,,-4,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-29,,,,,4,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-01-31,,,,,-3,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-02-01,,,,,3,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-02-02,,,,,-4,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,ChIJD6--YsAsZI8RXgjClEFKYME,2022-02-03,,,,,-1,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-01,,,36,,-65,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-02,,,30,,-37,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-03,,,16,,-25,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-04,,,9,,-23,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-05,,,14,,-27,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-06,,,0,,-20,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-07,,,1,,-23,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-08,,,0,,-24,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-09,,,-9,,-28,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-10,,,-3,,-21,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-11,,,-2,,-21,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-12,,,-12,,-25,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-13,,,-4,,-20,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-14,,,2,,-11,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-15,,,-5,,-17,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-16,,,-5,,-24,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-17,,,-4,,-19,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-18,,,3,,-18,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-19,,,-4,,-22,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-20,,,2,,-17,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-21,,,-3,,-14,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-22,,,0,,-16,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-23,,,3,,-18,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-24,,,-6,,-19,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-25,,,18,,-19,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-26,,,-10,,-23,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-27,,,-9,,-18,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-28,,,-7,,-11,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-29,,,-8,,-16,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-30,,,-13,,-20,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-01-31,,,-11,,-16,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-02-01,,,-7,,-12,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-02-02,,,-8,,-17,
+HN,Honduras,Valle Department,,,HN-VA,,ChIJi3ABzNkBcI8RpTxfmxrvU_Y,2022-02-03,,,-2,,-12,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-01,,,-5,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-02,,,-20,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-03,,,-19,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-04,,,-20,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-05,,,-19,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-06,,,-28,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-07,,,-31,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-08,,,-29,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-09,,,-38,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-10,,,-27,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-11,,,-24,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-12,,,-37,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-13,,,-23,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-14,,,-28,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-15,,,-36,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-16,,,-41,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-17,,,-39,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-18,,,-35,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-19,,,-37,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-20,,,-28,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-21,,,-36,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-22,,,-30,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-23,,,-42,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-24,,,-42,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-25,,,-33,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-26,,,-32,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-27,,,-30,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-28,,,-31,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-29,,,-10,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-30,,,-32,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-01-31,,,-32,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-02-01,,,-22,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-02-02,,,-27,,,
+HN,Honduras,Valle Department,Goascorán,,,,ChIJ___HXAJNZY8RZj5lVlUKAc4,2022-02-03,,,-21,,,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-01,,,,,-66,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-03,,,,,-27,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-04,,,,,-24,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-05,,,,,-23,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-06,,,,,-25,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-07,,,1,,-28,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-08,,,1,,-23,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-09,,,-7,,,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-10,,,,,-22,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-11,,,,,-27,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-12,,,,,-22,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-13,,,,,-24,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-14,,,10,,-13,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-15,,,2,,-17,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-16,,,-2,,,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-17,,,,,-17,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-18,,,,,-19,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-19,,,,,-21,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-20,,,,,-24,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-21,,,0,,-20,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-22,,,4,,-19,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-23,,,-2,,,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-24,,,,,-17,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-25,,,,,-23,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-26,,,,,-17,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-27,,,,,-26,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-28,,,3,,-17,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-29,,,7,,-20,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-30,,,-8,,,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-01-31,,,,,-18,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-02-01,,,,,-14,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-02-02,,,-7,,-13,
+HN,Honduras,Valle Department,Nacaome,,,,ChIJ4QiAR0gAcI8RXcWLXKBVsoU,2022-02-03,,,,,-17,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-01,,,,,-66,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-03,,,,,-21,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-04,,,,,-18,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-05,,,,,-19,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-06,,,,,-17,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-07,,,,,-18,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-08,,,,,-9,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-10,,,,,-14,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-11,,,,,-10,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-12,,,,,-18,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-13,,,,,-13,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-14,,,,,-9,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-15,,,,,0,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-17,,,,,-15,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-18,,,,,-17,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-19,,,,,-13,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-20,,,,,-13,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-21,,,,,-10,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-22,,,,,-4,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-24,,,,,-14,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-25,,,,,-15,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-26,,,,,-14,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-27,,,,,-13,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-28,,,,,-4,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-29,,,,,1,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-01-31,,,,,-11,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-02-01,,,,,-5,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-02-02,,,,,-7,
+HN,Honduras,Valle Department,San Lorenzo,,,,ChIJK8iuFX8DcI8RTiN1qZfqdaM,2022-02-03,,,,,-8,
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-01,-24,-22,-8,-57,-69,5
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-02,19,21,22,-9,-20,-4
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-03,27,38,0,-18,-14,-3
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-04,23,27,-9,-19,-11,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-05,32,41,5,-16,-8,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-06,28,31,-1,-12,-7,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-07,23,28,-1,-23,-3,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-08,15,14,2,-31,-7,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-09,9,8,8,-29,2,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-10,25,28,4,-20,-5,-4
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-11,23,25,-3,-24,-3,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-12,22,27,-4,-22,-9,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-13,17,18,-9,-19,-5,0
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-14,21,28,1,-30,0,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-15,19,18,10,-25,-1,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-16,13,18,14,-32,4,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-17,23,28,-1,-21,-1,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-18,30,25,3,-19,0,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-19,34,32,-1,-19,-3,0
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-20,24,27,-3,-20,-5,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-21,22,25,-4,-27,2,0
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-22,12,12,-3,-35,2,1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-23,9,6,-2,-34,9,1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-24,23,26,-2,-25,-2,0
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-25,41,26,7,-19,0,-2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-26,28,33,-3,-20,-3,0
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-27,20,19,-10,-24,-3,1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-28,25,22,-3,-26,4,1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-29,7,6,-12,-41,-1,3
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-30,2,7,-3,-32,2,2
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-01-31,31,31,3,-22,2,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-02-01,31,31,-2,-23,2,-1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-02-02,32,40,5,-25,-1,1
+HN,Honduras,Yoro Department,,,HN-YO,,ChIJ0Ys3qWDDaI8R-qfCDni82TA,2022-02-03,21,25,-1,-21,-1,0
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-01,-39,-36,-39,-61,-75,7
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-02,9,4,7,-43,-17,-3
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-03,21,32,-11,-39,-12,0
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-04,10,17,-14,-33,-8,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-05,21,31,-3,-32,-3,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-06,17,25,-4,-30,-2,0
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-07,13,25,-5,-37,-1,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-08,8,6,1,-42,2,0
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-09,3,0,15,-34,12,-1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-10,18,24,4,-38,-3,-1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-11,14,17,-2,-26,0,0
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-12,12,18,-9,-42,-3,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-13,9,11,-16,-36,-1,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-14,9,25,-4,-39,0,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-15,12,14,10,-42,3,-1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-16,8,13,22,-46,13,-1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-17,19,30,-3,-43,0,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-18,20,18,2,-35,1,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-19,22,27,0,-33,1,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-20,15,19,-4,-41,-1,1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-21,8,23,-7,-36,2,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-22,4,4,-2,-50,7,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-23,-4,1,3,-45,21,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-24,13,19,-1,-42,1,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-25,25,19,1,-33,2,-1
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-26,15,27,-7,-36,2,4
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-27,7,10,-8,-42,1,3
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-28,12,18,-3,-37,5,3
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-29,-5,-4,-13,-47,2,4
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-30,-4,5,14,-44,14,4
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-01-31,22,26,8,-34,3,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-02-01,19,24,2,-36,3,2
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-02-02,18,33,2,-38,3,4
+HN,Honduras,Yoro Department,El Progreso,,,,ChIJh7WWDNk-Zo8RHQjnvMm-41c,2022-02-03,10,20,1,-36,1,3
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-01,,,,-48,-66,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-02,,,,,-31,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-03,,,,23,-25,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-04,,,,21,-18,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-05,,,,20,-23,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-06,,,,,-20,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-07,,,,14,-13,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-08,,,,-2,-22,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-09,,,,,-23,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-10,,,,32,-18,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-11,,,,15,-12,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-12,,,,18,-24,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-13,,,,10,-20,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-14,,,,9,-12,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-15,,,,15,-12,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-16,,,,,-18,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-17,,,,32,-7,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-18,,,,,-2,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-19,,,,27,-16,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-20,,,,,-17,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-21,,,,14,-6,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-22,,,,2,-14,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-23,,,,,-15,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-24,,,,30,-12,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-25,,,,,-8,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-26,,,,21,-18,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-27,,,,,-12,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-28,,,,22,-7,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-29,,,,7,-10,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-30,,,,,-21,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-01-31,,,,33,-9,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-02-01,,,,21,-7,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-02-02,,,,19,-12,
+HN,Honduras,Yoro Department,Olanchito,,,,ChIJi81uUvkWaY8R0AfjouC3EXs,2022-02-03,,,,,-10,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-01,,,,,-55,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-03,,,,,-21,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-04,,,,,-12,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-05,,,,,-5,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-06,,,,,-8,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-07,,,,,-8,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-08,,,,,-19,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-10,,,,,3,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-11,,,,,-6,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-12,,,,,-4,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-13,,,,,1,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-14,,,,,5,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-17,,,,,-9,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-18,,,,,1,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-19,,,,,-3,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-20,,,,,3,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-21,,,,,3,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-24,,,,,-7,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-25,,,,,2,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-26,,,,,1,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-27,,,,,-2,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-01-31,,,,,3,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-02-01,,,,,-4,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-02-02,,,,,2,
+HN,Honduras,Yoro Department,Yoro,,,,ChIJXeFjUUTHaI8RQPGrVFvDtik,2022-02-03,,,,,7,

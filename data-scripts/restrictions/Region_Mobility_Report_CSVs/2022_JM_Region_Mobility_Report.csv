@@ -1,0 +1,511 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-01,-42,-54,-11,-27,-51,5
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-02,-1,19,12,-6,-11,-3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-03,12,27,17,6,-22,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-04,6,24,11,5,-22,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-05,7,24,11,8,-22,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-06,2,19,12,7,-20,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-07,-3,20,2,-1,-19,5
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-08,3,24,13,5,-6,0
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-09,-9,14,-3,-10,-8,0
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-10,4,17,12,3,-19,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-11,0,16,8,0,-19,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-12,1,17,8,6,-19,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-13,-1,13,12,6,-18,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-14,-2,20,9,1,-15,5
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-15,0,20,17,2,-3,1
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-16,-10,11,2,-14,-6,1
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-17,2,12,15,0,-16,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-18,-2,12,7,-2,-17,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-19,3,16,7,3,-16,4
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-20,2,14,14,6,-13,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-21,2,21,9,1,-10,5
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-22,4,20,15,-1,-1,1
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-23,-6,14,0,-15,-4,1
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-24,7,14,14,1,-11,3
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-25,8,22,15,1,-12,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-26,11,25,17,7,-12,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-27,8,21,18,8,-11,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-28,6,25,15,3,-7,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-29,8,25,22,2,1,-1
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-30,-1,20,3,-12,-3,0
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-01-31,8,15,12,3,-9,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-02-01,4,17,8,1,-10,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-02-02,8,21,13,7,-9,2
+JM,Jamaica,,,,,,ChIJnXHPxhsq2o4R-g4StcDRoFk,2022-02-03,6,17,16,7,-7,2
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-01,-36,-60,,,-58,-2
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-02,,,,,-14,
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-03,26,72,,,-18,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-04,21,67,,,-19,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-05,23,67,,,-19,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-06,17,59,,,-16,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-07,5,48,10,,-15,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-08,17,53,,,-6,-8
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-09,,,31,,-12,
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-10,14,57,,,-13,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-11,16,58,,,-12,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-12,9,46,,,-15,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-13,13,56,,,-9,-8
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-14,10,54,30,,-10,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-15,14,47,,,3,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-16,,,31,,-7,
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-17,13,61,,,-8,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-18,5,48,,,-11,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-19,8,52,,,-9,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-20,11,50,,,-4,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-21,9,47,28,,-4,-4
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-22,15,50,,,5,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-23,,,27,,-9,
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-24,13,60,,,-3,-4
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-25,21,62,,,-3,-5
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-26,17,71,,,-6,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-27,17,69,,,0,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-28,10,56,,,1,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-29,17,59,,,9,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-30,,,,,-1,
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-01-31,12,64,,,2,-7
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-02-01,13,61,,,1,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-02-02,12,67,,,0,-6
+JM,Jamaica,Clarendon,,,JM-13,,ChIJ6Y7LKrSY244RYiGM2eqJGMA,2022-02-03,13,62,,,4,-6
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-01,,,,,-35,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-02,,,,,-12,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-03,,,,,-17,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-04,,,,,-14,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-05,,,,,-16,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-06,,,,,-13,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-07,,,,,-14,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-08,,,,,-11,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-09,,,,,-9,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-10,,,,,-14,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-11,,,,,-16,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-12,,,,,-15,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-13,,,,,-12,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-14,,,,,-7,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-15,,,,,-6,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-16,,,,,-7,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-17,,,,,-9,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-18,,,,,-12,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-19,,,,,-12,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-20,,,,,-7,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-21,,,,,-3,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-22,,,,,-7,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-23,,,,,-6,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-24,,,,,-6,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-25,,,,,-4,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-26,,,,,-4,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-27,,,,,-4,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-28,,,,,-1,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-29,,,,,-5,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-30,,,,,-8,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-01-31,,,,,-4,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-02-01,,,,,-2,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-02-02,,,,,0,
+JM,Jamaica,Hanover Parish,,,JM-09,,ChIJQ2aPH3Z32Y4R6t2-SvAH4yM,2022-02-03,,,,,-4,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-01,,-82,-41,-31,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-02,,,-21,4,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-03,,-7,12,-16,-18,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-04,,-14,11,-8,-22,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-05,,-12,-1,-5,-19,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-06,,-12,0,-15,-13,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-07,,-26,-6,-16,-17,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-08,,2,19,-12,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-09,,,-22,3,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-10,,-15,15,-20,-15,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-11,,-18,10,-18,-19,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-12,,-14,6,-11,-15,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-13,,-17,3,-25,-14,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-14,,-25,2,-18,-12,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-15,,-8,13,-21,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-16,,,-22,-12,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-17,,-23,12,-26,-11,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-18,,-28,11,-22,-16,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-19,,-28,8,-22,-11,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-20,,-21,17,-21,-7,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-21,,-27,7,-27,-6,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-22,,-10,18,-29,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-23,,,-14,-19,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-24,,-28,22,-32,-12,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-25,,-23,26,-31,-17,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-26,,-20,19,-34,-15,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-27,,-13,26,-33,-6,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-28,,-21,18,-36,-14,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-29,,-6,25,-43,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-30,,,-10,-37,,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-01-31,,-22,18,-32,-8,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-02-01,,-19,16,-33,-10,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-02-02,,-16,17,-30,-10,
+JM,Jamaica,Kingston Parish,,,JM-01,,ChIJPToenYJA244RNbz9cV3Tl78,2022-02-03,,-12,14,-35,-4,
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-01,-46,-74,-73,,-65,-4
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-02,25,,-52,,-17,
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-03,30,20,-45,,-15,-12
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-04,28,19,-46,,-17,-12
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-05,27,16,-38,,-15,-12
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-06,26,10,-44,,-14,-11
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-07,18,11,-41,,-11,-9
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-08,21,13,-41,,-6,-11
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-09,16,,-59,,-16,
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-10,27,15,-38,,-12,-12
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-11,19,8,-40,,-13,-11
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-12,21,11,-44,,-12,-10
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-13,17,9,-48,,-11,-10
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-14,15,9,-43,,-6,-8
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-15,14,8,-42,,-5,-7
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-16,13,,-56,,-16,
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-17,23,13,-38,,-9,-9
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-18,20,7,-45,,-10,-10
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-19,20,14,-46,,-7,-7
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-20,21,9,-47,,-6,-7
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-21,17,13,-46,,-3,-6
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-22,16,7,-39,,-2,-6
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-23,8,,-54,,-13,
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-24,22,15,-30,,-3,-8
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-25,28,16,-40,,-1,-9
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-26,32,23,-35,,0,-9
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-27,29,19,-46,,-2,-8
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-28,21,19,-42,,2,-7
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-29,19,11,-32,,-2,-8
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-30,18,,-48,,-9,
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-01-31,26,15,-41,,0,-9
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-02-01,23,21,-34,,-2,-10
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-02-02,23,20,-44,,1,-8
+JM,Jamaica,Manchester Parish,,,JM-12,,ChIJ2WhaWlm4244RRc0ndo73kdY,2022-02-03,24,15,-37,,-1,-10
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-01,,,8,,-46,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-02,,,11,,,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-03,,,-12,,-16,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-04,,,-6,,-16,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-05,,,-6,,-15,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-06,,,-14,,-16,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-07,,,-27,,-18,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-08,,,-18,,-5,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-09,,,-12,,-12,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-10,,,-18,,-13,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-11,,,-9,,-17,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-12,,,-12,,-18,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-13,,,-14,,-8,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-14,,,-21,,-14,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-15,,,-16,,-2,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-16,,,-3,,-13,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-17,,,-11,,-15,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-18,,,-15,,-14,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-19,,,-19,,-14,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-20,,,-13,,-11,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-21,,,-15,,-10,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-22,,,-11,,-1,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-23,,,-12,,-7,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-24,,,-9,,-7,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-25,,,-5,,-10,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-26,,,-8,,-8,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-27,,,-16,,-4,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-28,,,-11,,-6,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-29,,,-6,,-2,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-30,,,-5,,,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-01-31,,,-17,,-14,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-02-01,,,-19,,-8,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-02-02,,,-4,,-6,
+JM,Jamaica,Portland Parish,,,JM-04,,ChIJvyh0wjvSxI4R5sp3IWhqbU4,2022-02-03,,,-13,,1,
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-01,-53,-67,-29,-35,-54,12
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-02,-14,3,10,-22,-16,3
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-03,2,20,-13,-7,-28,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-04,0,13,-13,-5,-31,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-05,0,14,-10,-6,-28,10
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-06,-5,8,-13,-5,-27,10
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-07,-8,7,-19,-8,-27,12
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-08,-3,18,-1,-10,-7,5
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-09,-17,5,6,-23,-10,6
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-10,-2,10,-11,-6,-24,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-11,-4,6,-15,-7,-28,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-12,-5,10,-13,-6,-26,10
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-13,-7,3,-16,-5,-25,10
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-14,-7,9,-9,-3,-24,11
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-15,-5,15,2,-11,-4,6
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-16,-17,1,12,-25,-10,6
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-17,-3,8,-9,-7,-22,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-18,-5,2,-16,-8,-26,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-19,-2,6,-13,-6,-23,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-20,-3,5,-14,-3,-21,9
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-21,-1,10,-12,-2,-19,10
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-22,0,17,0,-12,-2,5
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-23,-13,5,9,-26,-7,5
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-24,2,9,-13,-4,-17,8
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-25,5,13,-13,-4,-21,8
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-26,7,17,-8,0,-20,7
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-27,4,10,-8,1,-18,7
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-28,3,15,-7,2,-18,7
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-29,5,21,9,-8,0,3
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-30,-6,15,22,-22,-5,4
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-01-31,5,12,-7,-3,-16,7
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-02-01,4,10,-8,-3,-19,7
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-02-02,4,13,-6,-3,-17,7
+JM,Jamaica,St. Andrew Parish,,,JM-02,,ChIJyfSroZE-244RvCjo_JQDBdA,2022-02-03,1,7,-9,-1,-16,7
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-01,-32,-56,-31,-15,-49,-1
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-02,10,5,-3,,-18,-9
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-03,27,18,3,41,-25,-7
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-04,13,11,-9,,-23,-8
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-05,7,8,-18,,-24,-7
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-06,8,7,-5,,-22,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-07,3,1,-12,,-18,-3
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-08,-6,-3,-19,,-16,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-09,-7,-6,-25,,-19,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-10,10,9,-11,52,-24,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-11,3,6,-14,,-22,-7
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-12,5,3,-13,,-22,-6
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-13,10,5,-2,,-20,-6
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-14,4,-2,-9,,-17,-4
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-15,-2,-1,-14,,-13,-4
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-16,-11,-9,-21,,-17,-3
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-17,8,3,-5,36,-20,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-18,2,5,-15,,-19,-6
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-19,2,4,-31,,-21,-4
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-20,11,4,-14,,-17,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-21,3,-2,-17,,-10,-3
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-22,-1,-1,-20,,-11,-3
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-23,-9,-6,-30,,-15,-4
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-24,12,4,-16,32,-15,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-25,7,13,-20,,-14,-6
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-26,6,9,-14,,-15,-6
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-27,12,8,-13,,-14,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-28,8,2,-13,,-8,-4
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-29,5,7,-12,,-10,-6
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-30,3,0,-23,,-16,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-01-31,6,0,-17,47,-14,-5
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-02-01,-9,-2,-35,29,-21,-1
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-02-02,2,7,-28,,-14,-3
+JM,Jamaica,St. Ann Parish,,,JM-06,,ChIJe9l9kzVS2o4RllOWGihszuE,2022-02-03,11,6,-8,,-9,-6
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-01,-31,-42,32,-38,-50,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-02,9,29,43,-15,-16,-4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-03,28,44,,2,-18,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-04,22,41,,0,-18,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-05,20,40,,0,-17,3
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-06,16,36,,-1,-16,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-07,6,22,70,-8,-19,6
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-08,16,36,60,-5,-2,-2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-09,4,22,21,-22,-11,-1
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-10,16,30,,-1,-15,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-11,17,33,,-1,-16,3
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-12,15,32,,-2,-15,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-13,13,33,,0,-14,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-14,7,26,85,-8,-15,6
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-15,11,29,70,-10,2,1
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-16,1,19,31,-21,-8,1
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-17,14,24,,-2,-12,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-18,14,28,,-4,-13,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-19,14,30,,-5,-11,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-20,13,31,,-2,-8,4
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-21,12,26,,-4,-10,5
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-22,15,29,79,-10,5,0
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-23,6,24,31,-22,-6,0
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-24,17,27,,-3,-6,3
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-25,25,38,,3,-8,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-26,23,43,,3,-7,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-27,22,40,,4,-6,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-28,15,31,,-1,-6,3
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-29,19,34,77,-5,7,-2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-30,11,30,38,-17,-5,-1
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-01-31,20,30,,0,-2,1
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-02-01,19,33,,2,-5,1
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-02-02,18,36,,3,-3,2
+JM,Jamaica,St. Catherine Parish,,,JM-14,,ChIJm81moToT244Rgj0-MWwire4,2022-02-03,17,34,,2,-2,2
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-01,-19,,,,-63,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-02,,,,,-30,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-03,,,,,-17,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-04,,,,,-19,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-05,,,,,-17,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-06,,,,,-16,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-07,,24,,,-17,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-08,,22,,,-12,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-09,,,,,-21,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-10,,22,,,-12,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-11,,,,,-13,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-12,,,,,-11,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-13,,,,,-11,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-14,,18,,,-10,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-15,23,11,,,-8,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-16,,,,,-26,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-17,,21,,,-8,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-18,,15,,,-10,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-19,,,,,-7,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-20,,,,,-6,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-21,,21,,,-4,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-22,,15,,,-1,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-23,,,,,-22,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-24,,16,,,-3,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-25,,,,,-4,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-26,,,,,-4,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-27,,,,,-6,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-28,,17,,,0,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-29,,16,,,-1,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-30,,,,,-17,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-01-31,,18,,,4,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-02-01,,13,,,3,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-02-02,,,,,2,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,ChIJY3TLFIrC244RHGXsr0gxCYU,2022-02-03,,,,,3,
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-01,-39,-53,,-4,-51,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-02,0,14,,10,-19,-4
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-03,3,12,,29,-22,-1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-04,0,11,,27,-23,-1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-05,-2,8,,47,-26,0
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-06,-6,6,,35,-23,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-07,-10,4,,12,-21,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-08,-3,-1,,23,-15,-1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-09,-12,6,,7,-20,-1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-10,-5,6,,14,-21,0
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-11,-10,3,,7,-23,0
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-12,-10,-1,,32,-24,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-13,-10,-3,,22,-23,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-14,-13,-2,,9,-20,4
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-15,-5,-3,,23,-16,0
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-16,-16,-3,,-5,-22,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-17,-6,0,,7,-20,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-18,-12,-2,,6,-21,3
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-19,-2,2,,26,-23,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-20,-4,-1,,19,-21,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-21,-5,0,,4,-16,4
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-22,0,-3,,8,-15,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-23,-12,-3,,-11,-19,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-24,0,1,,6,-15,3
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-25,2,7,,1,-16,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-26,4,7,,23,-19,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-27,2,7,,17,-15,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-28,1,2,,4,-12,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-29,6,4,,7,-14,-1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-30,-10,1,,-6,-19,1
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-01-31,1,0,,14,-15,4
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-02-01,-1,-2,,6,-14,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-02-02,2,1,,22,-16,2
+JM,Jamaica,St. James Parish,,,JM-08,,ChIJC4mdNHwq2o4RroSbvhNwGSI,2022-02-03,0,0,,18,-14,1
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-01,,,,,-47,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-02,,,,,-14,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-03,,,,,-20,-9
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-04,,,,,-14,-8
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-05,,,,,-18,-8
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-06,,,,,-17,-6
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-07,,,,,-15,-5
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-08,,,,,-12,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-09,,,,,-13,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-10,,,,,-18,-7
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-11,,,,,-11,-9
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-12,,,,,-14,-7
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-13,,,,,-17,-7
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-14,,,,,-8,-4
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-15,,,,,-4,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-16,,,,,-13,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-17,,,,,-12,-6
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-18,,,,,-9,-8
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-19,,,,,-11,-5
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-20,,,,,-10,-6
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-21,,,,,-5,-4
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-22,,,,,-2,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-23,,,,,-8,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-24,,,,,-7,-5
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-25,,,,,-5,-7
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-26,,,,,-5,-7
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-27,,,,,-8,-7
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-28,,,,,-1,-5
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-29,,,,,1,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-30,,,,,-9,
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-01-31,,,,,-7,-4
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-02-01,,,,,-20,-1
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-02-02,,,,,-5,-4
+JM,Jamaica,St. Mary Parish,,,JM-05,,ChIJ-51miJTh2o4RjUo8l1lKaRw,2022-02-03,,,,,-6,-6
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-01,,,,,-56,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-02,,,,,-22,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-03,,,,,-22,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-04,,,,,-19,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-05,,,,,-23,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-06,,,,,-20,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-07,,,,,-17,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-08,,,,,-11,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-09,,,,,-27,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-10,,,,,-20,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-11,,,,,-14,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-12,,,,,-18,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-13,,,,,-16,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-14,,,,,-15,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-15,,,,,-6,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-16,,,,,-20,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-17,,,,,-13,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-18,,,,,-11,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-19,,,,,-16,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-20,,,,,-10,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-21,,,,,-6,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-22,,,,,-4,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-23,,,,,-16,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-24,,,,,-10,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-25,,,,,-5,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-26,,,,,-10,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-27,,,,,-7,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-28,,,,,-1,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-29,,,,,0,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-30,,,,,-20,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-01-31,,,,,-5,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-02-01,,,,,-2,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-02-02,,,,,-4,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,ChIJNbJCife2xI4RWMDyana3RrQ,2022-02-03,,,,,-3,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-01,-70,,,,-34,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-02,-61,,,,-10,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-03,-56,,,,-11,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-04,-63,,,,-11,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-05,-61,,,,-15,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-06,-62,,,,-15,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-07,-63,,,,-9,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-08,-61,,,,1,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-09,-64,,,,-9,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-10,-62,,,,-12,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-11,-62,,,,-10,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-12,-62,,,,-14,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-13,-65,,,,-15,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-14,-61,,,,-9,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-15,-61,,,,-1,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-16,-59,,,,-6,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-17,-62,,,,-12,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-18,-65,,,,-14,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-19,-65,,,,-9,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-20,-64,,,,-8,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-21,-61,,,,-1,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-22,-61,,,,8,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-23,-58,,,,-5,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-24,-57,,,,-2,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-25,-61,,,,-4,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-26,-59,,,,-7,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-27,-63,,,,-8,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-28,-60,,,,2,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-29,-58,,,,3,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-30,-58,,,,-4,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-01-31,-57,,,,-2,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-02-01,-61,,,,-5,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-02-02,-61,,,,-8,
+JM,Jamaica,Trelawny Parish,,,JM-07,,ChIJ5yztCZEz2o4R0A3ik87IwXU,2022-02-03,-61,,,,1,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-01,-2,,,,-45,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-02,,,,,-22,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-03,35,,,,-24,-7
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-04,18,,,,-23,-8
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-05,18,,,,-23,-7
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-06,20,,,,-22,-7
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-07,3,,,,-19,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-08,,,,,-18,-6
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-09,,,,,-21,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-10,19,,,,-22,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-11,13,,,,-21,-5
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-12,4,,,,-20,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-13,7,,,,-20,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-14,7,,,,-16,-3
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-15,,,,,-14,-3
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-16,,,,,-18,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-17,15,,,,-18,-3
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-18,9,,,,-17,-3
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-19,16,,,,-17,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-20,18,,,,-16,-5
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-21,13,,,,-13,-3
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-22,,,,,-13,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-23,,,,,-16,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-24,29,,,,-14,-2
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-25,15,,,,-16,-3
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-26,18,,,,-14,-5
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-27,18,,,,-12,-5
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-28,16,,,,-12,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-29,,,,,-10,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-30,,,,,-16,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-01-31,27,,,,-10,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-02-01,17,,,,-11,-4
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-02-02,19,,,,-9,-6
+JM,Jamaica,Westmoreland Parish,,,JM-10,,ChIJfWSP0I5t2Y4ReL6eOyyzkvk,2022-02-03,15,,,,-9,-4

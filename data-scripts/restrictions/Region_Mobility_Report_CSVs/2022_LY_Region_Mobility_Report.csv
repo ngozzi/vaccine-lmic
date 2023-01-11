@@ -1,0 +1,266 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-01,129,170,145,58,68,-5
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-02,131,167,142,49,64,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-03,133,169,153,55,66,-6
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-04,138,173,167,51,65,-6
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-05,135,172,158,62,66,-6
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-06,140,181,159,63,63,-5
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-07,106,151,106,36,30,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-08,114,158,118,50,67,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-09,129,165,135,54,63,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-10,132,169,144,52,64,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-11,135,169,155,54,64,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-12,134,169,137,60,65,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-13,140,180,151,73,62,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-14,124,166,125,40,36,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-15,136,175,149,65,75,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-16,141,172,153,61,71,-3
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-17,140,175,156,62,71,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-18,147,178,163,48,71,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-19,150,178,160,61,75,-4
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-20,153,186,161,62,70,-3
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-21,135,169,146,57,39,-1
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-22,142,181,146,69,78,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-23,143,174,151,57,74,-1
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-24,146,179,153,58,72,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-25,147,176,156,53,66,-1
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-26,143,174,159,58,66,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-27,150,180,157,62,64,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-28,131,164,147,57,37,0
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-29,135,168,143,56,74,-1
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-30,142,170,149,54,68,0
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-31,150,180,163,57,70,-2
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-02-01,146,176,159,52,67,-1
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-02-02,141,175,149,45,66,0
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-02-03,146,180,158,64,63,0
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-01,,,,,28,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-02,,,,,30,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-03,,,,,29,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-04,,,,,26,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-05,,,,,23,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-06,,,,,25,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-07,,,,,9,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-08,,,,,27,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-09,,,,,25,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-10,,,,,28,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-11,,,,,25,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-12,,,,,24,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-13,,,,,26,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-15,,,,,24,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-16,,,,,35,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-17,,,,,38,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-18,,,,,34,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-19,,,,,36,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-20,,,,,42,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-22,,,,,39,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-23,,,,,46,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-24,,,,,51,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-25,,,,,36,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-26,,,,,32,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-27,,,,,40,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-29,,,,,40,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-30,,,,,47,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-31,,,,,48,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-02-01,,,,,38,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-02-02,,,,,26,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-02-03,,,,,35,
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-01,95,131,105,,81,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-02,98,128,99,,62,-4
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-03,99,114,,,69,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-04,102,134,,,66,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-05,96,118,,,68,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-06,98,133,100,,64,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-07,101,,,,38,-4
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-08,89,120,100,,84,-5
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-09,93,121,93,,62,-1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-10,88,105,91,,57,-1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-11,102,129,,,59,-3
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-12,105,124,108,,68,-5
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-13,98,127,105,,61,-3
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-14,104,,,,29,-3
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-15,96,127,109,,89,-4
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-16,111,137,107,,72,-2
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-17,107,121,,,76,-5
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-18,110,137,,,73,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-19,109,119,107,,75,-3
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-20,112,133,108,,69,-4
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-21,116,,,,35,-1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-22,108,134,106,,92,-3
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-23,109,135,104,,71,-1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-24,113,121,,,74,-3
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-25,113,137,,,64,-1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-26,107,122,108,,63,0
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-27,122,137,104,,68,-2
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-28,123,,,,37,0
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-29,97,122,102,,93,-1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-30,106,124,91,,69,1
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-31,117,127,,,75,-2
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-02-01,123,141,,,73,-2
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-02-02,104,117,103,,72,0
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-02-03,96,119,88,,64,1
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-01,,,,,32,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-02,,,,,35,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-03,,,,,39,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-04,,,,,32,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-05,,,,,34,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-06,,,,,32,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-08,,,,,39,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-09,,,,,40,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-10,,,,,27,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-11,,,,,33,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-12,,,,,39,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-13,,,,,30,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-15,,,,,50,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-16,,,,,42,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-17,,,,,45,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-18,,,,,47,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-19,,,,,48,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-20,,,,,46,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-22,,,,,47,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-23,,,,,47,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-24,,,,,44,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-25,,,,,26,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-26,,,,,19,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-27,,,,,27,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-29,,,,,47,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-30,,,,,39,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-31,,,,,51,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-02-01,,,,,49,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-02-02,,,,,49,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-02-03,,,,,41,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-01,,,,,52,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-02,,,,,56,-7
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-03,,,,,58,-10
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-04,,,,,53,-10
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-05,,,,,53,-9
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-06,,,,,49,-10
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-07,,,,,20,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-08,,,,,54,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-09,,,,,55,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-10,,,,,54,-8
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-11,,,,,51,-9
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-12,,,,,51,-7
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-13,,,,,50,-7
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-14,,,,,16,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-15,,,,,56,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-16,,,,,58,-4
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-17,,,,,59,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-18,,,,,54,-7
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-19,,,,,60,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-20,,,,,53,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-21,,,,,16,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-22,,,,,60,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-23,,,,,63,-3
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-24,,,,,57,-4
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-25,,,,,53,-4
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-26,,,,,55,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-27,,,,,54,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-28,,,,,16,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-29,,,,,56,
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-30,,,,,58,-3
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-31,,,,,59,-5
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-02-01,,,,,54,-5
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-02-02,,,,,57,-3
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-02-03,,,,,54,-5
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-01,,,,,60,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-02,,,,,60,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-03,,,,,65,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-04,,,,,64,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-05,,,,,69,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-06,,,,,68,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-07,,,,,36,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-08,,,,,54,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-09,,,,,53,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-10,,,,,66,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-11,,,,,60,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-12,,,,,64,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-13,,,,,61,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-14,,,,,35,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-15,,,,,63,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-16,,,,,68,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-17,,,,,66,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-18,,,,,70,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-19,,,,,77,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-20,,,,,68,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-21,,,,,36,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-22,,,,,64,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-23,,,,,67,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-24,,,,,69,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-25,,,,,71,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-26,,,,,75,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-27,,,,,58,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-28,,,,,33,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-29,,,,,62,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-30,,,,,74,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-31,,,,,70,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-02-01,,,,,73,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-02-02,,,,,73,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-02-03,,,,,68,
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-01,139,197,225,,88,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-02,140,206,210,,79,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-03,145,205,239,,84,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-04,149,209,,,79,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-05,148,209,246,,81,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-06,152,216,259,,78,-1
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-07,92,164,139,,36,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-08,115,180,174,,81,4
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-09,137,200,201,,76,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-10,146,208,235,,87,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-11,145,200,245,,79,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-12,138,196,197,,78,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-13,151,217,252,,78,1
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-14,130,199,199,,47,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-15,147,210,240,,95,1
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-16,144,206,228,,85,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-17,149,209,238,,88,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-18,160,216,254,,83,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-19,166,218,261,,87,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-20,168,225,278,,83,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-21,144,206,252,,51,2
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-22,156,216,245,,96,1
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-23,151,209,239,,87,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-24,159,213,258,,85,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-25,161,215,258,,78,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-26,156,208,265,,79,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-27,159,211,273,,74,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-28,136,196,,,47,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-29,147,193,241,,87,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-30,150,208,246,,75,4
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-31,161,210,,,80,3
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-02-01,149,205,241,,70,5
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-02-02,148,206,237,,68,6
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-02-03,161,215,281,,70,4
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-01,,,,,81,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-02,,,,,81,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-03,,,,,83,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-04,,,,,83,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-05,,,,,83,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-06,,,,,84,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-07,,,,,19,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-08,,,,,84,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-09,,,,,80,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-10,,,,,80,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-11,,,,,80,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-12,,,,,85,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-13,,,,,79,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-14,,,,,35,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-15,,,,,91,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-16,,,,,89,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-17,,,,,84,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-18,,,,,89,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-19,,,,,95,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-20,,,,,97,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-21,,,,,35,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-22,,,,,90,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-23,,,,,94,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-24,,,,,93,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-25,,,,,81,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-26,,,,,87,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-27,,,,,92,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-28,,,,,31,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-29,,,,,91,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-30,,,,,95,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-31,,,,,96,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-02-01,,,,,87,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-02-02,,,,,96,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-02-03,,,,,96,
