@@ -1,6 +1,5 @@
 # libraries
-from functions import apply_seasonality, get_beta, get_IFR, get_initial_conditions, get_epi_params, get_IFR_fixed
-from deaths import compute_deaths
+from functions import apply_seasonality, get_beta, get_initial_conditions, get_epi_params
 from vaccinations import vaccinate
 import numpy as np
 from numpy.random import binomial
@@ -8,7 +7,6 @@ from numpy.random import binomial
 # n. of compartments and age groups
 ncomp = 23
 nage = 10
-
 
 def get_VOC_introduction(I_today, perc_VOC, C, Nk, compartments_step, params):
     """

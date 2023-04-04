@@ -1,30 +1,6 @@
 import numpy as np
 import os
 
-def import_posterior(country, path="./"):
-    """
-    This function import the posterior distribution for a given country
-    """
-    return np.load(path + "/posteriors_october/posteriors_" + country + ".npz", allow_pickle=True)["arr_0"]
-
-def import_posterior_dict(country, path="./"):
-    # order of parameters: R0: 0, Delta: 1, seasonality_min: 2, psi: 3, I_mult: 4, R_mult: 5, 
-    #                      ifr_mult: 6, scaler / 100.0: 7, date_intro_VOC: 8, err: 9
-    posterior = import_posterior(country, path=path)
-    posterior_dict = {}
-    posterior_dict["R0"] = posterior[:, 0]
-    posterior_dict["Delta"] = posterior[:, 1]
-    posterior_dict["seasonality_min"] = posterior[:, 2]
-    posterior_dict["psi"] = posterior[:, 3]
-    posterior_dict["I_mult"] = posterior[:, 4]
-    posterior_dict["R_mult"] = posterior[:, 5]
-    posterior_dict["ifr_mult"] = posterior[:, 6]
-    posterior_dict["scaler"] = posterior[:, 7]
-    posterior_dict["date_intro_VOC"] = posterior[:, 8]
-    posterior_dict["err"] = posterior[:, 9]
-
-    return posterior_dict
-
 
 def import_projections_deaths(country, scenario, vaccine='age-order', scaled=True, path="./projections_october/"):
     """
@@ -38,7 +14,6 @@ def import_projections_deaths(country, scenario, vaccine='age-order', scaled=Tru
     else: 
         files = [file for file in files if "scaled" not in file]
         
-    #print(len(files))
     data = []
     for file in np.sort(files):
         data.extend(np.load(path + "/projections_" + country + "/" + file, allow_pickle=True)["arr_0"])
